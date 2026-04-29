@@ -1,0 +1,2346 @@
+{
+  "1612.03801": {
+    "bib_title": "DeepMind Lab",
+    "cite_short": "DeepMind Lab",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "arxiv"
+  },
+  "1705.07177": {
+    "bib_title": "Model-Based Planning with Discrete and Continuous Actions",
+    "cite_short": "MBP",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "arxiv"
+  },
+  "1707.06347": {
+    "bib_title": "Proximal Policy Optimization Algorithms",
+    "cite_short": "PPO",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "arxiv"
+  },
+  "1801.00690": {
+    "bib_title": "DeepMind Control Suite",
+    "cite_short": "DMC",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "arxiv"
+  },
+  "1904.10079": {
+    "bib_title": "The MineRL 2019 Competition on Sample Efficient Reinforcement Learning using Human Priors",
+    "cite_short": "MineRL",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "arxiv"
+  },
+  "1908.03568": {
+    "bib_title": "Behaviour Suite for Reinforcement Learning",
+    "cite_short": "bsuite",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "arxiv"
+  },
+  "2001.02908": {
+    "bib_title": "Spatial-Temporal Transformer Networks for Traffic Flow Forecasting",
+    "cite_short": "ST Transformer",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "arxiv"
+  },
+  "2009.12293": {
+    "bib_title": "robosuite: A Modular Simulation Framework and Benchmark for Robot Learning",
+    "cite_short": "robosuite",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "arxiv"
+  },
+  "2010.06740": {
+    "bib_title": "Measuring Visual Generalization in Continuous Control from Pixels",
+    "cite_short": "DMCR",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "arxiv"
+  },
+  "2101.02722": {
+    "bib_title": "The Distracting Control Suite -- A Challenging Benchmark for Reinforcement Learning from Pixels",
+    "cite_short": "DCS",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "arxiv"
+  },
+  "2109.06780": {
+    "bib_title": "Benchmarking the Spectrum of Agent Capabilities",
+    "cite_short": "Crafter",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "arxiv"
+  },
+  "2202.09481": {
+    "bib_title": "TransDreamer: Reinforcement Learning with Transformer World Models",
+    "cite_short": "TransDreamer",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "arxiv"
+  },
+  "2206.08853": {
+    "bib_title": "MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge",
+    "cite_short": "MineDojo",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "arxiv"
+  },
+  "2301.04104": {
+    "bib_title": "Mastering Diverse Domains through World Models",
+    "cite_short": "DreamerV3",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "arxiv"
+  },
+  "2307.12698": {
+    "bib_title": "MC-JEPA: A Joint-Embedding Predictive Architecture for Self-Supervised Learning of Motion and Content Features",
+    "cite_short": "MC-JEPA",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "arxiv"
+  },
+  "2310.00344": {
+    "bib_title": "HarmonyDream: Task Harmonization Inside World Models",
+    "cite_short": "HarmonyDream",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "arxiv"
+  },
+  "2311.15830": {
+    "bib_title": "A-JEPA: Joint-Embedding Predictive Architecture Can Listen",
+    "cite_short": "A-JEPA",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "arxiv"
+  },
+  "2401.09985": {
+    "bib_title": "WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens",
+    "cite_short": "WorldDreamer",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "arxiv"
+  },
+  "2402.15391": {
+    "bib_title": "Genie: Generative Interactive Environments",
+    "cite_short": "Genie",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "arxiv"
+  },
+  "2403.09631": {
+    "bib_title": "3D-VLA: A 3D Vision-Language-Action Generative World Model",
+    "cite_short": "3D-VLA",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "arxiv"
+  },
+  "2404.08471": {
+    "bib_title": "Revisiting Feature Prediction for Learning Visual Representations from Video",
+    "cite_short": "V-JEPA",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "arxiv"
+  },
+  "2404.12377": {
+    "bib_title": "RoboDreamer: Learning Compositional World Models for Robot Imagination",
+    "cite_short": "RoboDreamer",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "arxiv"
+  },
+  "title:008c0d4823b6": {
+    "bib_title": "Model-ensemble trust-region policy optimization",
+    "cite_short": "ME-TRPO",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:009b89048b47": {
+    "bib_title": "Godiva: Generating open-domain videos from natural descriptions",
+    "cite_short": "GODIVA",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:012051e8861d": {
+    "bib_title": "Llama 2: Open foundation and fine-tuned chat models",
+    "cite_short": "LLaMA 2",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:0337ffcf2e20": {
+    "bib_title": "Self-Supervised Learning From Images With a Joint-Embedding Predictive Architecture",
+    "cite_short": "I-JEPA",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:04c83d1f636c": {
+    "bib_title": "Localizing moments in video with natural language",
+    "cite_short": "Moment Localization",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:054be999108a": {
+    "bib_title": "DreamerPro: Reconstruction-Free Model-Based Reinforcement Learning with Prototypical Representations",
+    "cite_short": "DreamerPro",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:05bbfd3e0f51": {
+    "bib_title": "DreamingV2: Reinforcement Learning with Discrete World Models without Reconstruction",
+    "cite_short": "DreamingV2",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:064d5d0fdf4f": {
+    "bib_title": "Rethinking semantic segmentation from a sequence-to-sequence perspective with transformers",
+    "cite_short": "SETR",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:073fa737e977": {
+    "bib_title": "Blip: Bootstrapping language-image pre-training for unified vision-language understanding and generation",
+    "cite_short": "BLIP",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:08a3b92123b5": {
+    "bib_title": "Make pixels dance: High-dynamic video generation",
+    "cite_short": "PixelDance",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:0a7e2b2060d8": {
+    "bib_title": "Diverse image inpainting with bidirectional and autoregressive transformers",
+    "cite_short": "BAT Inpainting",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:0abfdeba0d3a": {
+    "bib_title": "Transformer-based World Models Are Happy With 100k Interactions",
+    "cite_short": "TWM",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:0b47c4a0fb45": {
+    "bib_title": "The {Cross-Entropy} Method for Combinatorial and Continuous Optimization",
+    "cite_short": "CEM",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:0bdfc410a572": {
+    "bib_title": "Bidirectional hybrid lstm based recurrent neural network for multi-view stereo",
+    "cite_short": "Bi-LSTM MVS",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:0ec082ce032f": {
+    "bib_title": "Adding Conditional Control to Text-to-Image Diffusion Models",
+    "cite_short": "ControlNet",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:0ffa5fd5ff64": {
+    "bib_title": "A style-based generator architecture for generative adversarial networks",
+    "cite_short": "StyleGAN",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:10839f11a4f5": {
+    "bib_title": "T2i-adapter: Learning adapters to dig out more controllable ability for text-to-image diffusion models",
+    "cite_short": "T2I-Adapter",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:1106b899dce3": {
+    "bib_title": "Trafficbots: Towards world models for autonomous driving simulation and motion prediction",
+    "cite_short": "TrafficBots",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:1128fc5be902": {
+    "bib_title": "Beit: Bert pre-training of image transformers",
+    "cite_short": "BEiT",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:11b9f597c1cf": {
+    "bib_title": "Towards accurate generative models of video: A new metric \\& challenges",
+    "cite_short": "FVD Challenges",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:1316b2b5bb42": {
+    "bib_title": "Paragraph-to-image generation with information-enriched diffusion model",
+    "cite_short": "Paragraph2Image",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:15a8734432c3": {
+    "bib_title": "Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning",
+    "cite_short": "Emu Video",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:1608e4364dac": {
+    "bib_title": "Is It an agent, or just a program?: A taxonomy for autonomous agents",
+    "cite_short": "Agent Taxonomy",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:1669a8f51724": {
+    "bib_title": "Exploring the limits of transfer learning with a unified text-to-text transformer",
+    "cite_short": "T5",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:170464e3e3d9": {
+    "bib_title": "Pre-training Contextualized World Models with In-the-wild Videos for Reinforcement Learning",
+    "cite_short": "ContextWM",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:17446db9b082": {
+    "bib_title": "Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving",
+    "cite_short": "DriveWM",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:17d0d57d60c5": {
+    "bib_title": "Storygan: A sequential conditional gan for story visualization",
+    "cite_short": "StoryGAN",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:181c653f1a32": {
+    "bib_title": "Improving {PILCO} with {B}ayesian neural network dynamics models",
+    "cite_short": "BNN-PILCO",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:196549e88c3b": {
+    "bib_title": "Robotic world models—conceptualization, review, and engineering best practices",
+    "cite_short": "Robotic WM Survey",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:1bb658c3b06c": {
+    "bib_title": "The book of why: the new science of cause and effect",
+    "cite_short": "Book of Why",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:1bc8cd9a8e91": {
+    "bib_title": "Transformers are Sample-Efficient World Models",
+    "cite_short": "IRIS",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:1f0c9ca710bc": {
+    "bib_title": "Lavie: High-quality video generation with cascaded latent diffusion models",
+    "cite_short": "LaVie",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:1f69029ff307": {
+    "bib_title": "Beyond memorization: Violating privacy via inference with large language models",
+    "cite_short": "LLM Privacy",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:1f8289196668": {
+    "bib_title": "Composer: Creative and controllable image synthesis with composable conditions",
+    "cite_short": "Composer",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:1fe19bf868b0": {
+    "bib_title": "Convnet architecture search for spatiotemporal feature learning",
+    "cite_short": "R(2+1)D",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:1ffc361b3760": {
+    "bib_title": "Video diffusion models",
+    "cite_short": "Video Diffusion",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:2102a326ffa7": {
+    "bib_title": "Learning Real-World Robot Policies by Dreaming",
+    "cite_short": "Dreaming Policies",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:2135fbf64123": {
+    "bib_title": "Sequential modeling enables scalable learning for large vision models",
+    "cite_short": "Seq Vision Models",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:23365ff0ae4b": {
+    "bib_title": "Neural World Models for Computer Vision",
+    "cite_short": "Neural World Models",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:24eb555c7edb": {
+    "bib_title": "Deep hierarchical planning from pixels",
+    "cite_short": "Hierarchical Planning",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:251bc841a112": {
+    "bib_title": "Tinybert: Distilling bert for natural language understanding",
+    "cite_short": "TinyBERT",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:271e6bb2dcc7": {
+    "bib_title": "Safety Gymnasium: A Unified Safe Reinforcement Learning Benchmark",
+    "cite_short": "Safety Gymnasium",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:27a774a00755": {
+    "bib_title": "Denoising diffusion implicit models",
+    "cite_short": "DDIM",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:2912a30ddefb": {
+    "bib_title": "Sora as an AGI World Model? A Complete Survey on Text-to-Video Generation",
+    "cite_short": "Sora AGI Survey",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:29a7f1edcdc8": {
+    "bib_title": "CARLA: An open urban driving simulator",
+    "cite_short": "CARLA",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:29ea927a8c5d": {
+    "bib_title": "Enhance Sample Efficiency and Robustness of End-to-end Urban Autonomous Driving via Semantic Masked World Model",
+    "cite_short": "Semantic Masked WM",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:2a0a93784292": {
+    "bib_title": "Gemini: a family of highly capable multimodal models",
+    "cite_short": "Gemini",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:2a5d4e04edb4": {
+    "bib_title": "Learning to Model the World with Language",
+    "cite_short": "World with Language",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:2a6f69c8c952": {
+    "bib_title": "Hierarchical text-conditional image generation with clip latents",
+    "cite_short": "unCLIP",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:2ab1d96d0dd8": {
+    "bib_title": "Gans trained by a two time-scale update rule converge to a local nash equilibrium",
+    "cite_short": "TTUR",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:2b843a755119": {
+    "bib_title": "Maskgit: Masked generative image transformer",
+    "cite_short": "MaskGIT",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:2c6373c305ee": {
+    "bib_title": "Instructpix2pix: Learning to follow image editing instructions",
+    "cite_short": "InstructPix2Pix",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:2cc9ea9ccd4f": {
+    "bib_title": "A survey on contrastive self-supervised learning",
+    "cite_short": "Contrastive SSL",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:2f11bb6e94d6": {
+    "bib_title": "Iso-dream: Isolating and leveraging noncontrollable visual dynamics in world models",
+    "cite_short": "Iso-Dream",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:2fe0ec0045c8": {
+    "bib_title": "Slowfast networks for video recognition",
+    "cite_short": "SlowFast",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:30ace73c4953": {
+    "bib_title": "InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding",
+    "cite_short": "InternVideo2",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:31c65c5187b5": {
+    "bib_title": "WoVoGen: World volume-aware diffusion for controllable multi-camera driving scene generation",
+    "cite_short": "WoVoGen",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:328a838f82a5": {
+    "bib_title": "Gradient-based learning applied to document recognition",
+    "cite_short": "LeNet",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:353bfa703061": {
+    "bib_title": "Vbench: Comprehensive benchmark suite for video generative models",
+    "cite_short": "VBench",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:354ced3194ad": {
+    "bib_title": "{CURL}: Contrastive Unsupervised Representations for Reinforcement Learning",
+    "cite_short": "CURL",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:3652ad5f980e": {
+    "bib_title": "SafeDreamer: Safe Reinforcement Learning with World Models",
+    "cite_short": "SafeDreamer",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:37f63852cdfb": {
+    "bib_title": "Attention is all you need",
+    "cite_short": "Transformer",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:38992c1cf5c3": {
+    "bib_title": "Generative adversarial imitation learning",
+    "cite_short": "GAIL",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:38be83dcef13": {
+    "bib_title": "Imagenet: A large-scale hierarchical image database",
+    "cite_short": "ImageNet",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:3902cc536266": {
+    "bib_title": "Autoregressive image generation using residual quantization",
+    "cite_short": "RQ-Transformer",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:391780c0a262": {
+    "bib_title": "Clipscore: A reference-free evaluation metric for image captioning",
+    "cite_short": "CLIPScore",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:39fc8fac01b0": {
+    "bib_title": "Learning universal policies via text-guided video generation",
+    "cite_short": "Universal Policies",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:3a1104dbeba6": {
+    "bib_title": "Align your latents: High-resolution video synthesis with latent diffusion models",
+    "cite_short": "VideoLDM",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:3b07295bc5b3": {
+    "bib_title": "Learning transferable visual models from natural language supervision",
+    "cite_short": "CLIP",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:3c028c15624f": {
+    "bib_title": "Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning",
+    "cite_short": "Meta-World",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:3c0512f095ca": {
+    "bib_title": "Videogpt: Video generation using vq-vae and transformers",
+    "cite_short": "VideoGPT",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:3faed3c9f7e8": {
+    "bib_title": "Improving language understanding by generative pre-training",
+    "cite_short": "GPT",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:403956765565": {
+    "bib_title": "Rainbow: combining improvements in deep reinforcement learning",
+    "cite_short": "Rainbow",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:408111e5f02f": {
+    "bib_title": "3D convolutional neural networks for human action recognition",
+    "cite_short": "C3D",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:41f0e77fa053": {
+    "bib_title": "Neural discrete representation learning",
+    "cite_short": "VQ-VAE",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:41f9de27fa5e": {
+    "bib_title": "Pd-gan: Probabilistic diverse gan for image inpainting",
+    "cite_short": "PD-GAN",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:4260f6fb99e4": {
+    "bib_title": "Conditional GAN with Discriminative Filter Generation for Text-to-Video Synthesis.",
+    "cite_short": "DFG-CGAN",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:4332ee86ccf0": {
+    "bib_title": "Language models are few-shot learners",
+    "cite_short": "GPT-3",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:433c2066b8ff": {
+    "bib_title": "Llama: Open and efficient foundation language models",
+    "cite_short": "LLaMA",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:433fca8fa5eb": {
+    "bib_title": "DayDreamer: World Models for Physical Robot Learning",
+    "cite_short": "DayDreamer",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:4360bc0fe25a": {
+    "bib_title": "One-shot imitation learning",
+    "cite_short": "One-Shot IL",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:447a5d0bb48b": {
+    "bib_title": "SubjectDrive: Scaling Generative Data in Autonomous Driving via Subject Control",
+    "cite_short": "SubjectDrive",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:4484d274a3ce": {
+    "bib_title": "Imitation from observation: Learning to imitate behaviors from raw video via context translation",
+    "cite_short": "IfO ContextTrans",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:44a7c0b0c1ce": {
+    "bib_title": "Model Based Reinforcement Learning for Atari",
+    "cite_short": "SimPLe",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:4741832b84b0": {
+    "bib_title": "Towards A Better Metric for Text-to-Video Generation",
+    "cite_short": "Better T2V Metric",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:4770868dad19": {
+    "bib_title": "Learning structured output representation using deep conditional generative models",
+    "cite_short": "CGM",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:485ce5e4c715": {
+    "bib_title": "Bart: Denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension",
+    "cite_short": "BART",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:486197cd2120": {
+    "bib_title": "nuscenes: A multimodal dataset for autonomous driving",
+    "cite_short": "nuScenes",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:491d7329bd27": {
+    "bib_title": "Film: Visual reasoning with a general conditioning layer",
+    "cite_short": "FiLM",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:49824b95d7a2": {
+    "bib_title": "Gpt-4 technical report",
+    "cite_short": "GPT-4 Report",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:4a9a524d8740": {
+    "bib_title": "Third-person imitation learning",
+    "cite_short": "Third-Person IL",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:4b50a1dd67f0": {
+    "bib_title": "Quo vadis, action recognition? a new model and the kinetics dataset",
+    "cite_short": "I3D",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:4b8581796f46": {
+    "bib_title": "Densely connected convolutional networks",
+    "cite_short": "DenseNet",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:4b90affe6ec2": {
+    "bib_title": "From Sora What We Can See: A Survey of Text-to-Video Generation",
+    "cite_short": "Sora T2V Survey",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:4bc42de6e82e": {
+    "bib_title": "Masked autoencoders are scalable vision learners",
+    "cite_short": "MAE",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:4bd42dcf43a1": {
+    "bib_title": "Fetv: A benchmark for fine-grained evaluation of open-domain text-to-video generation",
+    "cite_short": "FETV",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:4c1fa5a2fe22": {
+    "bib_title": "Gligen: Open-set grounded text-to-image generation",
+    "cite_short": "GLIGEN",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:4c9bb1052b14": {
+    "bib_title": "Post-training quantization on diffusion models",
+    "cite_short": "PTQ-DM",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:4e730a5db33e": {
+    "bib_title": "OccWorld: Learning a 3d occupancy world model for autonomous driving",
+    "cite_short": "OccWorld",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:4f44c38dc2e2": {
+    "bib_title": "Video swin transformer",
+    "cite_short": "Video Swin",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:505b67a03a83": {
+    "bib_title": "Swin transformer: Hierarchical vision transformer using shifted windows",
+    "cite_short": "Swin",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:50da6ab134af": {
+    "bib_title": "The Arcade Learning Environment: An Evaluation Platform for General Agents",
+    "cite_short": "ALE",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:5281ddb72f34": {
+    "bib_title": "Cogview: Mastering text-to-image generation via transformers",
+    "cite_short": "CogView",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:536101dc22db": {
+    "bib_title": "Deepcache: Accelerating diffusion models for free",
+    "cite_short": "DeepCache",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:567c513d888d": {
+    "bib_title": "End-to-end object detection with transformers",
+    "cite_short": "DETR",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:567f561ee255": {
+    "bib_title": "All one needs to know about metaverse: A complete survey on technological singularity, virtual ecosystem, and research agenda",
+    "cite_short": "Metaverse Survey",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:57b74ebe3567": {
+    "bib_title": "Video generation from text",
+    "cite_short": "Text2Video GAN",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:57faef443ada": {
+    "bib_title": "An image is worth 16x16 words: Transformers for image recognition at scale",
+    "cite_short": "ViT",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:586e0a05e9f7": {
+    "bib_title": "Cogvideo: Large-scale pretraining for text-to-video generation via transformers",
+    "cite_short": "CogVideo",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:58982fd67ba5": {
+    "bib_title": "World Models for Autonomous Driving: An Initial Survey",
+    "cite_short": "AD World Survey",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:5bdc19cd8c6c": {
+    "bib_title": "Fast sampling of diffusion models via operator learning",
+    "cite_short": "OpDiff",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:5ec64dc829d5": {
+    "bib_title": "Word-level fine-grained story visualization",
+    "cite_short": "Word2Story",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:5f1a5ebf2dba": {
+    "bib_title": "Long short-term memory",
+    "cite_short": "LSTM",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:601c26bd0080": {
+    "bib_title": "Auto-encoding variational bayes",
+    "cite_short": "VAE",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:61b86ef63c7f": {
+    "bib_title": "Is space-time attention all you need for video understanding?",
+    "cite_short": "TimeSformer",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:62d71ee3df4c": {
+    "bib_title": "Structure and content-guided video synthesis with diffusion models",
+    "cite_short": "SCG Video",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:6399a7fa85fe": {
+    "bib_title": "Language Models Meet World Models: Embodied Experiences Enhance Language Models",
+    "cite_short": "LMs Meet WMs",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:63cbc35ba50c": {
+    "bib_title": "A dataset for movie description",
+    "cite_short": "MPII-MD",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:64195fc06ead": {
+    "bib_title": "3D-LLM: Injecting the 3D World into Large Language Models",
+    "cite_short": "3D-LLM",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:6637ef7c6fe0": {
+    "bib_title": "Discovering and Achieving Goals via World Models",
+    "cite_short": "LEXA",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:669ba021cd01": {
+    "bib_title": "To create what you tell: Generating videos from captions",
+    "cite_short": "T2V from Captions",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:67560fabb875": {
+    "bib_title": "Tune-a-video: One-shot tuning of image diffusion models for text-to-video generation",
+    "cite_short": "Tune-A-Video",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:6972535e076e": {
+    "bib_title": "OpenScene: The Largest Up-to-Date 3D Occupancy Prediction Benchmark in Autonomous Driving",
+    "cite_short": "OpenScene",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:69c22b61bc05": {
+    "bib_title": "Model-free imitation learning with policy optimization",
+    "cite_short": "MFIL-PO",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:6a9fd33fa2c6": {
+    "bib_title": "Unpaired image-to-image translation using cycle-consistent adversarial networks",
+    "cite_short": "CycleGAN",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:6d14c13f732f": {
+    "bib_title": "Generative adversarial nets",
+    "cite_short": "GAN",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:6e9ca2b9f1c1": {
+    "bib_title": "Uniworld: Autonomous driving pre-training via world models",
+    "cite_short": "UniWorld",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:6eaf9e836bf6": {
+    "bib_title": "Learning Interactive Real-World Simulators",
+    "cite_short": "Interactive Sims",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:6fbcd2810ec8": {
+    "bib_title": "Occupancy-mae: Self-supervised pre-training large-scale lidar point clouds with masked occupancy autoencoders",
+    "cite_short": "Occupancy-MAE",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:71fd591457bc": {
+    "bib_title": "Copilot4D: Learning unsupervised world models for autonomous driving via discrete diffusion",
+    "cite_short": "Copilot4D",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:728dbbf297f9": {
+    "bib_title": "Howto100m: Learning a text-video embedding by watching hundred million narrated video clips",
+    "cite_short": "HowTo100M",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:73f43cfbbb2e": {
+    "bib_title": "Deep reinforcement learning with double q-learning",
+    "cite_short": "Double DQN",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:75c2ebb656c1": {
+    "bib_title": "Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers",
+    "cite_short": "Panda-70M",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:767909a69e66": {
+    "bib_title": "Acav100m: Automatic curation of large-scale datasets for audio-visual video representation learning",
+    "cite_short": "ACAV100M",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:76b4e4ed1afe": {
+    "bib_title": "{Structured World Models from Human Videos}",
+    "cite_short": "Structured WM",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:76c77b70b359": {
+    "bib_title": "ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment",
+    "cite_short": "ELLA",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:770e590dde4b": {
+    "bib_title": "DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving",
+    "cite_short": "DriveWorld",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:772c83d0bf4e": {
+    "bib_title": "Diffit: Diffusion vision transformers for image generation",
+    "cite_short": "DiffiT",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:78d410e861e0": {
+    "bib_title": "LidarDM: Generative LiDAR Simulation in a Generated World",
+    "cite_short": "LidarDM",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:7d7d09196c9e": {
+    "bib_title": "Vatex: A large-scale, high-quality multilingual dataset for video-and-language research",
+    "cite_short": "VATEX",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:7f980710c165": {
+    "bib_title": "PIXART-$\\{$$\\backslash$delta$\\}$: Fast and Controllable Image Generation with Latent Consistency Models",
+    "cite_short": "PixArt-delta",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:80937d70ad37": {
+    "bib_title": "Panacea: Panoramic and Controllable Video Generation for Autonomous Driving",
+    "cite_short": "Panacea",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:8167f85dd175": {
+    "bib_title": "Multi-Camera Unified Pre-Training Via 3D Scene Reconstruction",
+    "cite_short": "UniScene",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:822d031c9422": {
+    "bib_title": "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor",
+    "cite_short": "SAC",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:83c027860879": {
+    "bib_title": "Generative pretraining from pixels",
+    "cite_short": "Pixels GPT",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:8499a39998b1": {
+    "bib_title": "Sdxl: Improving latent diffusion models for high-resolution image synthesis",
+    "cite_short": "SDXL",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:84da35c01c55": {
+    "bib_title": "Uniformer: Unified transformer for efficient spatiotemporal representation learning",
+    "cite_short": "UniFormer",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:84e6119d376f": {
+    "bib_title": "Photorealistic text-to-image diffusion models with deep language understanding",
+    "cite_short": "Imagen",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:853bb915994f": {
+    "bib_title": "IRC-GAN: Introspective Recurrent Convolutional GAN for Text-to-video Generation.",
+    "cite_short": "IRC-GAN",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:889244723f9c": {
+    "bib_title": "Going deeper with convolutions",
+    "cite_short": "GoogLeNet",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:8af4b176089f": {
+    "bib_title": "Unisim: A neural closed-loop sensor simulator",
+    "cite_short": "UniSim",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:8b186dc247a0": {
+    "bib_title": "Vector quantized diffusion model for text-to-image synthesis",
+    "cite_short": "VQ-Diffusion",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:8d0b867775e1": {
+    "bib_title": "Chatgpt for robotics: Design principles and model abilities",
+    "cite_short": "ChatGPT Robotics",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:8e5e47930bf5": {
+    "bib_title": "Planning to Explore via Self-Supervised World Models",
+    "cite_short": "Plan2Explore",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:8eab7d092ab8": {
+    "bib_title": "Scalable diffusion models with transformers",
+    "cite_short": "DiT",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:8ed1763accca": {
+    "bib_title": "Magvit: Masked generative video transformer",
+    "cite_short": "MAGVIT",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:8fc275542374": {
+    "bib_title": "Training data-efficient image transformers \\& distillation through attention",
+    "cite_short": "DeiT",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:90518a465caa": {
+    "bib_title": "Stable video diffusion: Scaling latent video diffusion models to large datasets",
+    "cite_short": "Stable Video Diff",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:931c795ea67f": {
+    "bib_title": "Human-level control through deep reinforcement learning",
+    "cite_short": "DQN",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:93c65fe1469d": {
+    "bib_title": "Activitynet: A large-scale video benchmark for human activity understanding",
+    "cite_short": "ActivityNet",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:93d2b80904eb": {
+    "bib_title": "StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text",
+    "cite_short": "StreamingT2V",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:941bb5281d77": {
+    "bib_title": "Mage: Masked generative encoder to unify representation learning and image synthesis",
+    "cite_short": "MAGE",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:94f2b506b8dd": {
+    "bib_title": "Gaia-1: A generative world model for autonomous driving",
+    "cite_short": "GAIA-1",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:95046f51fab6": {
+    "bib_title": "Learning Latent Dynamics for Planning from Pixels",
+    "cite_short": "PlaNet",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:9710d8003388": {
+    "bib_title": "{MEMO:} {A} Deep Network for Flexible Combination of Episodic Memories",
+    "cite_short": "MEMO",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:9900ccdd2893": {
+    "bib_title": "Paint by example: Exemplar-based image editing with diffusion models",
+    "cite_short": "Paint by Example",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:999735b1cd06": {
+    "bib_title": "Latte: Latent diffusion transformer for video generation",
+    "cite_short": "Latte",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:99a72968108b": {
+    "bib_title": "Cogview2: Faster and better text-to-image generation via hierarchical transformers",
+    "cite_short": "CogView2",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:9b9767cd797b": {
+    "bib_title": "Towards automatic learning of procedures from web instructional videos",
+    "cite_short": "Proc Learning",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:9c1fa2444a7a": {
+    "bib_title": "[Online]",
+    "cite_short": "Tesla Online",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:9cc16be62662": {
+    "bib_title": "High-fidelity gan inversion for image attribute editing",
+    "cite_short": "HFGI",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:9cdb8eefde94": {
+    "bib_title": "Dreaming: Model-based Reinforcement Learning by Latent Imagination without Reconstruction",
+    "cite_short": "Dreaming",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:9e73949ee963": {
+    "bib_title": "Language Model Beats Diffusion--Tokenizer is Key to Visual Generation",
+    "cite_short": "LM Beats Diffusion",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:9f5a574f6c8a": {
+    "bib_title": "Mask r-cnn",
+    "cite_short": "Mask R-CNN",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:9f6f05521247": {
+    "bib_title": "Model-based imitation learning for urban driving",
+    "cite_short": "MILE",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:9f7467375af8": {
+    "bib_title": "LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action",
+    "cite_short": "LM-Nav",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:9fb9f7b45f2d": {
+    "bib_title": "Imagen video: High definition video generation with diffusion models",
+    "cite_short": "Imagen Video",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:a06e799ebb13": {
+    "bib_title": "Invertible conditional gans for image editing",
+    "cite_short": "IcGAN",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:a1aed62baecc": {
+    "bib_title": "Learning spatiotemporal features with 3d convolutional networks",
+    "cite_short": "3D ConvNet",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:a1e65dd97eb9": {
+    "bib_title": "Pathdreamer: A World Model for Indoor Navigation",
+    "cite_short": "Pathdreamer",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:a265ae1a0c6a": {
+    "bib_title": "Scalability in perception for autonomous driving: Waymo open dataset",
+    "cite_short": "Waymo Open",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:a2ec25ae02a0": {
+    "bib_title": "Msr-vtt: A large video description dataset for bridging video and language",
+    "cite_short": "MSR-VTT",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:a3180e4910eb": {
+    "bib_title": "All are worth words: A vit backbone for diffusion models",
+    "cite_short": "AWW Diffusion ViT",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:a495f570fa1a": {
+    "bib_title": "Bert: Pre-training of deep bidirectional transformers for language understanding",
+    "cite_short": "BERT",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:a808617e7ece": {
+    "bib_title": "Recurrent Environment Simulators",
+    "cite_short": "Env Simulators",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:a871f2a06225": {
+    "bib_title": "Adriver-i: A general world model for autonomous driving",
+    "cite_short": "ADriver-I",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:ad296a771ebd": {
+    "bib_title": "Aa-rmvsnet: Adaptive aggregation recurrent multi-view stereo network",
+    "cite_short": "AA-RMVSNet",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:afab3d255453": {
+    "bib_title": "Scaling autoregressive models for content-rich text-to-image generation",
+    "cite_short": "Parti",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:afdca3f32c6f": {
+    "bib_title": "Distinguishing two dimensions of uncertainty",
+    "cite_short": "Aleatoric vs Epi",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:b646d022f2b3": {
+    "bib_title": "Improving image generation with better captions",
+    "cite_short": "Better Captions",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:b738ed4b85cc": {
+    "bib_title": "Dream to Control: Learning Behaviors by Latent Imagination",
+    "cite_short": "DreamerV1",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:b8d6e6a7b33d": {
+    "bib_title": "Temporal pyramid network for action recognition",
+    "cite_short": "TPN",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:babfbffe33ab": {
+    "bib_title": "Recurrent World Models Facilitate Policy Evolution",
+    "cite_short": "World Models",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:bbf712fb2167": {
+    "bib_title": "Storydall-e: Adapting pretrained text-to-image transformers for story continuation",
+    "cite_short": "StoryDALL-E",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:be80e34c6725": {
+    "bib_title": "High-resolution image synthesis with latent diffusion models",
+    "cite_short": "LDM",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:c00fb9380ebd": {
+    "bib_title": "Masked world models for visual control",
+    "cite_short": "MWM",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:c0c8717473b2": {
+    "bib_title": "DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation",
+    "cite_short": "DriveDreamer-2",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:c144ba3ed041": {
+    "bib_title": "Sts: Surround-view temporal stereo for multi-view 3d detection",
+    "cite_short": "STS",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:c1a885742c67": {
+    "bib_title": "One transformer fits all distributions in multi-modal diffusion at scale",
+    "cite_short": "UniDiff",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:c1ab7aa731b9": {
+    "bib_title": "PILCO: a model-based and data-efficient approach to policy search",
+    "cite_short": "PILCO",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:c1e1dc5211ff": {
+    "bib_title": "Efficient detr: improving end-to-end object detector with dense prior",
+    "cite_short": "Efficient DETR",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:c230dbfd9331": {
+    "bib_title": "Glide: Towards photorealistic image generation and editing with text-guided diffusion models",
+    "cite_short": "GLIDE",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:c2f0cf7db7ea": {
+    "bib_title": "Deep learning for multi-view stereo via plane sweep: A survey",
+    "cite_short": "MVS Survey",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:c6516377fa4e": {
+    "bib_title": "Advancing high-resolution video-language representation with large-scale video transcriptions",
+    "cite_short": "HiRes VideoLang",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:c736bba9fbd8": {
+    "bib_title": "Dream to Generalize: Zero-Shot Model-Based Reinforcement Learning for Unseen Visual Distractions",
+    "cite_short": "Dream to Generalize",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:c773155f3e36": {
+    "bib_title": "Mastering Atari with Discrete World Models",
+    "cite_short": "DreamerV2",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:ca8da888a847": {
+    "bib_title": "Model-based value estimation for efficient model-free reinforcement learning",
+    "cite_short": "MVE",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:cb6fd3c97749": {
+    "bib_title": "Frozen in time: A joint video and image encoder for end-to-end retrieval",
+    "cite_short": "Frozen in Time",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:ccf3ee702f21": {
+    "bib_title": "Styleclip: Text-driven manipulation of stylegan imagery",
+    "cite_short": "StyleCLIP",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:cfa408578480": {
+    "bib_title": "Think2Drive: Efficient Reinforcement Learning by Thinking in Latent World Model for Quasi-Realistic Autonomous Driving (in CARLA-v2)",
+    "cite_short": "Think2Drive",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:cfe609d64dcd": {
+    "bib_title": "Evalcrafter: Benchmarking and evaluating large video generation models",
+    "cite_short": "EvalCrafter",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:cff1992032e8": {
+    "bib_title": "MaxEnt Dreamer: Maximum Entropy Reinforcement Learning with World Model",
+    "cite_short": "MaxEnt Dreamer",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:d000d886bb78": {
+    "bib_title": "Generalized Predictive Model for Autonomous Driving",
+    "cite_short": "GenAD",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:d0164884c36d": {
+    "bib_title": "T-Stitch: Accelerating Sampling in Pre-Trained Diffusion Models with Trajectory Stitching",
+    "cite_short": "T-Stitch",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:d01b2c18b430": {
+    "bib_title": "Structural pruning for diffusion models",
+    "cite_short": "Struct Pruning",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:d09d2b1c17ee": {
+    "bib_title": "Self-conditioned Image Generation via Generating Representations",
+    "cite_short": "SCIG",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:d0b00c940cd4": {
+    "bib_title": "RLBench: The Robot Learning Benchmark \\& Learning Environment",
+    "cite_short": "RLBench",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:d23919dd174c": {
+    "bib_title": "On the road with gpt-4v (ision): Early explorations of visual-language model on autonomous driving",
+    "cite_short": "GPT-4V Driving",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:d3e446bae8af": {
+    "bib_title": "Collecting highly parallel data for paraphrase evaluation",
+    "cite_short": "ParaEval",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:d4b638c01e78": {
+    "bib_title": "Language models are unsupervised multitask learners",
+    "cite_short": "GPT-2",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:d4fa4b4f890d": {
+    "bib_title": "Are we ready for autonomous driving? the kitti vision benchmark suite",
+    "cite_short": "KITTI",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:d6af7b08201b": {
+    "bib_title": "Faster r-cnn: Towards real-time object detection with region proposal networks",
+    "cite_short": "Faster R-CNN",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:d6bac0a08fc2": {
+    "bib_title": "Tivgan: Text to image to video generation with step-by-step evolutionary generator",
+    "cite_short": "TIVGAN",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:d6e98abe296e": {
+    "bib_title": "Progressive distillation for fast sampling of diffusion models",
+    "cite_short": "ProgDist",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:d6fb1cc02bdb": {
+    "bib_title": "Photorealistic Video Generation with Diffusion Models",
+    "cite_short": "PVDM",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:d72bf1050dd6": {
+    "bib_title": "Nerf: Representing scenes as neural radiance fields for view synthesis",
+    "cite_short": "NeRF",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:d7562d5fad6d": {
+    "bib_title": "Pix2video: Video editing using image diffusion",
+    "cite_short": "Pix2Video",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:d7f474e9c1a4": {
+    "bib_title": "Transformer-{XL}: Attentive Language Models beyond a Fixed-Length Context",
+    "cite_short": "Transformer-XL",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:d89dda68a7de": {
+    "bib_title": "Align before fuse: Vision and language representation learning with momentum distillation",
+    "cite_short": "ALBEF",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:d8c2756ae079": {
+    "bib_title": "MuJoCo: A physics engine for model-based control",
+    "cite_short": "MuJoCo",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:d95d0c67138d": {
+    "bib_title": "Denoising diffusion probabilistic models",
+    "cite_short": "DDPM",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:d9a60ab5e33d": {
+    "bib_title": "U-net: Convolutional networks for biomedical image segmentation",
+    "cite_short": "U-Net",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:d9be4235acc5": {
+    "bib_title": "SegFormer: Simple and efficient design for semantic segmentation with transformers",
+    "cite_short": "SegFormer",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:da57cceee0a7": {
+    "bib_title": "Dino: Detr with improved denoising anchor boxes for end-to-end object detection",
+    "cite_short": "DINO",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:db36838b57ba": {
+    "bib_title": "Large scale GAN training for high fidelity natural image synthesis",
+    "cite_short": "BigGAN",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:db894aedbbde": {
+    "bib_title": "Deep residual learning for image recognition",
+    "cite_short": "ResNet",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:db99bd015363": {
+    "bib_title": "In-domain gan inversion for real image editing",
+    "cite_short": "Domain GAN Inv",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:dbabc7a32913": {
+    "bib_title": "Videopoet: A large language model for zero-shot video generation",
+    "cite_short": "VideoPoet",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:ddb8a9866ef2": {
+    "bib_title": "X3d: Expanding architectures for efficient video recognition",
+    "cite_short": "X3D",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:de163e176935": {
+    "bib_title": "Visual Point Cloud Forecasting enables Scalable Autonomous Driving",
+    "cite_short": "ViDAR",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:df1f8bf90db6": {
+    "bib_title": "DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model",
+    "cite_short": "DrivingDiffusion",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:dfdb2d217f34": {
+    "bib_title": "Deformable detr: Deformable transformers for end-to-end object detection",
+    "cite_short": "Deformable DETR",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:e0892d17e059": {
+    "bib_title": "{IMPALA}: Scalable Distributed Deep-{RL} with Importance Weighted Actor-Learner Architectures",
+    "cite_short": "IMPALA",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:e09a7702e04c": {
+    "bib_title": "Bias in Generative AI",
+    "cite_short": "GenAI Bias",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:e222e11af1a9": {
+    "bib_title": "PixArt-alpha: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis",
+    "cite_short": "PixArt-alpha",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:e53fd888dec4": {
+    "bib_title": "Drivedreamer: Towards real-world-driven world models for autonomous driving",
+    "cite_short": "DriveDreamer",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:e5fdcfc22bc3": {
+    "bib_title": "Very deep convolutional networks for large-scale image recognition",
+    "cite_short": "VGG",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:e8d63154667a": {
+    "bib_title": "3d gaussian splatting for real-time radiance field rendering",
+    "cite_short": "3DGS",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:e9c8d422f664": {
+    "bib_title": "Consistency models",
+    "cite_short": "Consistency Models",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:eaef09ba5fae": {
+    "bib_title": "The Malmo platform for artificial intelligence experimentation",
+    "cite_short": "Project Malmo",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:ebb7af9949dc": {
+    "bib_title": "Vivit: A video vision transformer",
+    "cite_short": "ViViT",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:ecde247a79eb": {
+    "bib_title": "MUVO: A multimodal generative world model for autonomous driving with geometric representations",
+    "cite_short": "MUVO",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:f34207b2cc8b": {
+    "bib_title": "Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models",
+    "cite_short": "Sora Review",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:f4633ccb79fd": {
+    "bib_title": "mplug-2: A modularized multi-modal foundation model across text, image and video",
+    "cite_short": "mPLUG-2",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:f4b3cbe302d3": {
+    "bib_title": "Internvid: A large-scale video-text dataset for multimodal understanding and generation",
+    "cite_short": "InternVid",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:f5a928148495": {
+    "bib_title": "PEEKABOO: Interactive Video Generation via Masked-Diffusion",
+    "cite_short": "PEEKABOO",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:f5e92240b347": {
+    "bib_title": "Patch-based image inpainting with generative adversarial networks",
+    "cite_short": "Patch Inpaint GAN",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:f6bb2e38f335": {
+    "bib_title": "Segmenter: Transformer for semantic segmentation",
+    "cite_short": "Segmenter",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:f70f96fcb8b6": {
+    "bib_title": "Argoverse 2: Next generation datasets for self-driving perception and forecasting",
+    "cite_short": "Argoverse 2",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:f749387d90f3": {
+    "bib_title": "STORM: Efficient Stochastic Transformer based World Models for Reinforcement Learning",
+    "cite_short": "STORM",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:f7dc1c1aa392": {
+    "bib_title": "Merlot: Multimodal neural script knowledge models",
+    "cite_short": "MERLOT",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:f8067502024b": {
+    "bib_title": "Kitti-360: A novel dataset and benchmarks for urban scene understanding in 2d and 3d",
+    "cite_short": "KITTI-360",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:f81c7ba54aa0": {
+    "bib_title": "Roberta: A robustly optimized bert pretraining approach",
+    "cite_short": "RoBERTa",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:f867c02fd0cb": {
+    "bib_title": "Imagenet classification with deep convolutional neural networks",
+    "cite_short": "AlexNet",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:f87bcd0e08ca": {
+    "bib_title": "Diffusion models beat gans on image synthesis",
+    "cite_short": "ADM",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:fc4ab07dc9b7": {
+    "bib_title": "Dueling network architectures for deep reinforcement learning",
+    "cite_short": "Dueling DQN",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:fcb2409d0031": {
+    "bib_title": "Latent consistency models: Synthesizing high-resolution images with few-step inference",
+    "cite_short": "LCM",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "title:fcb6f680fb93": {
+    "bib_title": "Pyramid vision transformer: A versatile backbone for dense prediction without convolutions",
+    "cite_short": "PVT",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "title"
+  },
+  "url:https://api.semanticscholar.org/CorpusID:251881108": {
+    "bib_title": "A Path Towards Autonomous Machine Intelligence Version 0.9.2, 2022-06-27",
+    "cite_short": "AMI v0.9",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "url"
+  },
+  "url:https://openai.com/research/video-generation-models-as-world-simulators": {
+    "bib_title": "Video generation models as world simulators",
+    "cite_short": "Video as Simulators",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "url"
+  },
+  "url:https://research.runwayml.com/introducing-general-world-models": {
+    "bib_title": "Introducing General World Models",
+    "cite_short": "General World Models",
+    "added_time": "2026-04-29 17:03:42",
+    "added_by_human": false,
+    "source_survey": "2405.03520",
+    "ref_id_type": "url"
+  }
+}
