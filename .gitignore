@@ -1,1 +1,3 @@
 survey_reading/
+__pycache__/
+*.pyc

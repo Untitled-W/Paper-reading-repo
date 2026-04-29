@@ -1,6 +1,5 @@
 from pathlib import Path
 import tarfile
-import tempfile
 import time
 
 from common import (
@@ -26,7 +25,9 @@ def main() -> int:
     raw_dir = survey_dir / ".arxiv_latex_build" / "latex_arxiv_raw"
     raw_dir.mkdir(parents=True, exist_ok=True)
 
-    archive_path = Path(tempfile.gettempdir()) / f"{arxiv_id.replace('/', '_')}_arxiv_source.tar"
+    temp_root = survey_dir / ".arxiv_latex_build" / "tmp"
+    temp_root.mkdir(parents=True, exist_ok=True)
+    archive_path = temp_root / f"{arxiv_id.replace('/', '_')}_arxiv_source.tar"
     total_start = time.perf_counter()
     size, download_elapsed = stream_download(ARXIV_EPRINT.format(arxiv_id=arxiv_id), archive_path)
 

@@ -437,8 +437,8 @@ python scripts/step5_1_update_cite_cache.py 2405.03520 --survey-dir survey_readi
 ```markdown
 | 入库时间 | arXiv ID | 论文简称 | 标题 | 路径 |
 |---------|----------|---------|------|------|
-| 2026-04-29 | 2405.03520 | Sora WM Survey | Is Sora a World Simulator? A Comprehensive Survey... | survey_reading/2405.03520-is-sora-world-simulator |
-| 2026-04-28 | 2401.12345 | VideoGen Survey | A Survey on Video Generation... | survey_reading/2401.12345-video-generation-survey |
+| 2026-04-29 17:03:42 | 2405.03520 | Sora WM Survey | Is Sora a World Simulator? A Comprehensive Survey... | survey_reading/2405.03520-is-sora-world-simulator |
+| 2026-04-28 09:15:00 | 2401.12345 | VideoGen Survey | A Survey on Video Generation... | survey_reading/2401.12345-video-generation-survey |
 ```
 
 **命令**：
@@ -465,7 +465,8 @@ python scripts/step5_2_add_to_index.py 2405.03520 \
 - 参考文献缓存使用 arXiv ID 作为主键，确保跨文章一致
 - arXiv ID 已在步骤2生成 `citation_semantic_abbrevs.json` 时提取
 - 索引按时间倒序排列，最新入库的论文在最前面
-- 使用中国时间格式记录入库时间
+- 使用中国时间格式记录入库时间，必须精确到秒，格式为 `YYYY-MM-DD HH:MM:SS`
+- 对于已先执行 Step 5.1 的论文，优先复用 `cite_short_cache.json` 中该 `source_survey` 的最早 `added_time` 作为 `INDEX.md` 的入库时间
 
 ---
 

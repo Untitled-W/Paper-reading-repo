@@ -8,7 +8,6 @@ import shutil
 import subprocess
 import sys
 import tarfile
-import tempfile
 import textwrap
 import time
 import urllib.error
@@ -19,19 +18,61 @@ from pathlib import Path
 
 
 PROXY_URL = "http://127.0.0.1:7890"
-ARXIV_API = "https://export.arxiv.org/api/query"
+ARXIV_APIS = [
+    "https://export.arxiv.org/api/query",
+    "http://export.arxiv.org/api/query",
+]
+ARXIV_ABS_URLS = [
+    "https://arxiv.org/abs/{arxiv_id}",
+    "https://export.arxiv.org/abs/{arxiv_id}",
+    "http://export.arxiv.org/abs/{arxiv_id}",
+]
 ARXIV_PDF_URLS = [
+    "https://arxiv.org/pdf/{arxiv_id}",
     "https://arxiv.org/pdf/{arxiv_id}.pdf",
     "https://export.arxiv.org/pdf/{arxiv_id}.pdf",
     "http://export.arxiv.org/pdf/{arxiv_id}.pdf",
 ]
 ARXIV_EPRINT = "https://arxiv.org/e-print/{arxiv_id}"
 SHANGHAI_TZ = dt.timezone(dt.timedelta(hours=8))
+CLASH_CONFIG = Path.home() / ".config" / "clash" / "config.yaml"
+DEFAULT_CLASH_CANDIDATES = [
+    "DIRECT",
+    "自动选择",
+    "🇭🇰|香港家宽-直连",
+    "🇸🇬|新加坡-进阶IEPL 02",
+    "🇯🇵|日本原生-直连",
+    "🇺🇸|美国-直连",
+]
+_PROXY_SELECTION_CACHE: dict[str, str] = {}
 
 
 def ensure_proxy_env() -> None:
     for key in ("HTTP_PROXY", "HTTPS_PROXY", "http_proxy", "https_proxy"):
         os.environ.setdefault(key, PROXY_URL)
+
+
+def parse_simple_yaml(path: Path) -> dict[str, str]:
+    if not path.exists():
+        return {}
+    data: dict[str, str] = {}
+    for raw_line in path.read_text(encoding="utf-8", errors="ignore").splitlines():
+        line = raw_line.strip()
+        if not line or line.startswith("#") or ":" not in line:
+            continue
+        key, value = line.split(":", 1)
+        data[key.strip()] = value.strip().strip("'\"")
+    return data
+
+
+def get_clash_settings() -> dict[str, str]:
+    return parse_simple_yaml(CLASH_CONFIG)
+
+
+def get_proxy_url() -> str:
+    settings = get_clash_settings()
+    mixed_port = settings.get("mixed-port", "7890")
+    return f"http://127.0.0.1:{mixed_port}"
 
 
 def normalize_arxiv_id(raw: str) -> str:
@@ -148,11 +189,131 @@ def survey_dir_name(arxiv_id: str, title: str) -> str:
 
 def _open_url(request: urllib.request.Request, timeout: int, use_proxy: bool):
     if use_proxy:
-        ensure_proxy_env()
+        select_best_proxy_for_url(request.full_url)
+        proxy_url = get_proxy_url()
+        for key in ("HTTP_PROXY", "HTTPS_PROXY", "http_proxy", "https_proxy"):
+            os.environ[key] = proxy_url
         opener = urllib.request.build_opener()
     else:
         opener = urllib.request.build_opener(urllib.request.ProxyHandler({}))
     return opener.open(request, timeout=timeout)
+
+
+def clash_api_get(path: str) -> dict:
+    settings = get_clash_settings()
+    controller = settings.get("external-controller", "")
+    secret = settings.get("secret", "")
+    if not controller:
+        raise RuntimeError("Clash external-controller is not configured")
+    headers = ["-H", f"Authorization: Bearer {secret}"] if secret else []
+    result = subprocess.run(
+        ["curl.exe", "-s", *headers, f"http://{controller}{path}"],
+        text=True,
+        encoding="utf-8",
+        errors="ignore",
+        capture_output=True,
+        check=False,
+        timeout=10,
+    )
+    if result.returncode != 0 or not result.stdout.strip():
+        raise RuntimeError(result.stderr.strip() or f"Clash API GET failed: {path}")
+    return json.loads(result.stdout)
+
+
+def clash_api_put(path: str, payload: dict) -> None:
+    settings = get_clash_settings()
+    controller = settings.get("external-controller", "")
+    secret = settings.get("secret", "")
+    if not controller:
+        raise RuntimeError("Clash external-controller is not configured")
+    headers = ["-H", f"Authorization: Bearer {secret}"] if secret else []
+    result = subprocess.run(
+        ["curl.exe", "-s", "-X", "PUT", *headers, "-H", "Content-Type: application/json", "-d", json.dumps(payload), f"http://{controller}{path}"],
+        text=True,
+        encoding="utf-8",
+        errors="ignore",
+        capture_output=True,
+        check=False,
+        timeout=10,
+    )
+    if result.returncode != 0:
+        raise RuntimeError(result.stderr.strip() or f"Clash API PUT failed: {path}")
+
+
+def probe_url_via_proxy(url: str, proxy_url: str, timeout: int = 12) -> tuple[bool, float, str]:
+    start = time.perf_counter()
+    result = subprocess.run(
+        ["curl.exe", "-L", "--fail", "--silent", "--show-error", "--max-time", str(timeout), "--proxy", proxy_url, "-o", "NUL", url],
+        text=True,
+        encoding="utf-8",
+        errors="ignore",
+        capture_output=True,
+        check=False,
+        timeout=timeout + 2,
+    )
+    elapsed = time.perf_counter() - start
+    ok = result.returncode == 0
+    return ok, elapsed, result.stderr.strip()
+
+
+def rank_clash_candidates(proxies: dict) -> list[str]:
+    available = proxies.get("proxies", {})
+    ranked: list[tuple[int, int, str]] = []
+    for name in DEFAULT_CLASH_CANDIDATES:
+        if name not in available:
+            continue
+        history = available[name].get("history", [])
+        nonzero = [item.get("delay", 0) for item in history if item.get("delay", 0) > 0]
+        if nonzero:
+            ranked.append((0, min(nonzero), name))
+        else:
+            ranked.append((1, 10**9, name))
+    seen = {name for _, _, name in ranked}
+    auto_group = available.get("自动选择", {}).get("all", [])
+    for name in auto_group:
+        if name in seen or name not in available:
+            continue
+        history = available[name].get("history", [])
+        nonzero = [item.get("delay", 0) for item in history if item.get("delay", 0) > 0]
+        if nonzero:
+            ranked.append((0, min(nonzero), name))
+    ranked.sort()
+    return [name for _, _, name in ranked[:8]]
+
+
+def select_best_proxy_for_url(url: str) -> str:
+    host = urllib.parse.urlparse(url).netloc or "default"
+    if host in _PROXY_SELECTION_CACHE:
+        return _PROXY_SELECTION_CACHE[host]
+    settings = get_clash_settings()
+    controller = settings.get("external-controller", "")
+    if not controller:
+        return "DIRECT"
+    proxy_url = get_proxy_url()
+    try:
+        proxies = clash_api_get("/proxies")
+        global_now = proxies["proxies"].get("GLOBAL", {}).get("now", "")
+        candidates = rank_clash_candidates(proxies)
+        best_name = ""
+        best_elapsed = float("inf")
+        for candidate in candidates:
+            try:
+                clash_api_put("/proxies/GLOBAL", {"name": candidate})
+                ok, elapsed, _ = probe_url_via_proxy(url, proxy_url)
+                if ok and elapsed < best_elapsed:
+                    best_name = candidate
+                    best_elapsed = elapsed
+            except Exception:
+                continue
+        if best_name:
+            clash_api_put("/proxies/GLOBAL", {"name": best_name})
+            _PROXY_SELECTION_CACHE[host] = best_name
+            return best_name
+        if global_now:
+            clash_api_put("/proxies/GLOBAL", {"name": global_now})
+    except Exception:
+        return "DIRECT"
+    return "DIRECT"
 
 
 def fetch_url(url: str, timeout: int = 60) -> bytes:
@@ -167,6 +328,19 @@ def fetch_url(url: str, timeout: int = 60) -> bytes:
                 return response.read()
         except Exception as exc:  # noqa: BLE001
             last_error = exc
+    try:
+        result = subprocess.run(
+            ["curl.exe", "-L", "--fail", "--silent", "--show-error", url],
+            text=False,
+            capture_output=True,
+            check=False,
+            timeout=timeout,
+        )
+        if result.returncode == 0:
+            return result.stdout
+        last_error = RuntimeError(result.stderr.decode("utf-8", errors="ignore") or f"curl failed with {result.returncode}")
+    except Exception as exc:  # noqa: BLE001
+        last_error = exc
     raise last_error
 
 
@@ -194,12 +368,31 @@ def stream_download(url: str, output_path: Path, timeout: int = 120) -> tuple[in
             last_error = exc
             if output_path.exists():
                 output_path.unlink()
+    curl_start = time.perf_counter()
+    try:
+        result = subprocess.run(
+            ["curl.exe", "-L", "--fail", "--silent", "--show-error", "-o", str(output_path), url],
+            text=True,
+            encoding="utf-8",
+            errors="ignore",
+            capture_output=True,
+            check=False,
+            timeout=timeout,
+        )
+        if result.returncode == 0 and output_path.exists():
+            elapsed = time.perf_counter() - curl_start
+            return output_path.stat().st_size, elapsed
+        if output_path.exists():
+            output_path.unlink()
+        last_error = RuntimeError(result.stderr or f"curl failed with {result.returncode}")
+    except Exception as exc:  # noqa: BLE001
+        last_error = exc
+        if output_path.exists():
+            output_path.unlink()
     raise last_error
 
 
-def fetch_arxiv_metadata(arxiv_id: str) -> dict:
-    query = urllib.parse.urlencode({"search_query": f"id:{arxiv_id}", "start": 0, "max_results": 1})
-    payload = fetch_url(f"{ARXIV_API}?{query}").decode("utf-8")
+def _parse_arxiv_atom(payload: str, arxiv_id: str) -> dict:
     root = ET.fromstring(payload)
     ns = {"atom": "http://www.w3.org/2005/Atom"}
     entry = root.find("atom:entry", ns)
@@ -221,6 +414,56 @@ def fetch_arxiv_metadata(arxiv_id: str) -> dict:
         "entry_id": entry.findtext("atom:id", default="", namespaces=ns),
         "links": links,
     }
+
+
+def _strip_html(value: str) -> str:
+    cleaned = re.sub(r"<[^>]+>", " ", value or "")
+    return normalize_whitespace(cleaned.replace("&amp;", "&"))
+
+
+def _parse_arxiv_abs_html(payload: str, arxiv_id: str) -> dict:
+    title_match = re.search(r'<meta\s+name="citation_title"\s+content="([^"]+)"', payload, re.IGNORECASE)
+    if not title_match:
+        raise RuntimeError(f"Could not parse abstract page for {arxiv_id}")
+    authors = re.findall(r'<meta\s+name="citation_author"\s+content="([^"]+)"', payload, re.IGNORECASE)
+    published_match = re.search(r'<meta\s+name="citation_date"\s+content="([^"]+)"', payload, re.IGNORECASE)
+    pdf_match = re.search(r'<meta\s+name="citation_pdf_url"\s+content="([^"]+)"', payload, re.IGNORECASE)
+    abs_match = re.search(r'<meta\s+name="citation_arxiv_id"\s+content="([^"]+)"', payload, re.IGNORECASE)
+    abstract_match = re.search(r'<blockquote class="abstract[^"]*">.*?<span class="descriptor">Abstract:</span>(.*?)</blockquote>', payload, re.IGNORECASE | re.DOTALL)
+    summary = _strip_html(abstract_match.group(1)) if abstract_match else ""
+    entry_id = f"https://arxiv.org/abs/{abs_match.group(1) if abs_match else arxiv_id}"
+    links = {"alternate": entry_id}
+    if pdf_match:
+        links["pdf"] = pdf_match.group(1)
+    published = published_match.group(1) if published_match else ""
+    return {
+        "arxiv_id": arxiv_id,
+        "title": _strip_html(title_match.group(1)),
+        "summary": summary,
+        "authors": [_strip_html(author) for author in authors],
+        "published": published,
+        "updated": published,
+        "entry_id": entry_id,
+        "links": links,
+    }
+
+
+def fetch_arxiv_metadata(arxiv_id: str) -> dict:
+    query = urllib.parse.urlencode({"search_query": f"id:{arxiv_id}", "start": 0, "max_results": 1})
+    errors = []
+    for api in ARXIV_APIS:
+        try:
+            payload = fetch_url(f"{api}?{query}").decode("utf-8", errors="ignore")
+            return _parse_arxiv_atom(payload, arxiv_id)
+        except Exception as exc:  # noqa: BLE001
+            errors.append(f"{api}: {exc}")
+    for template in ARXIV_ABS_URLS:
+        try:
+            payload = fetch_url(template.format(arxiv_id=arxiv_id)).decode("utf-8", errors="ignore")
+            return _parse_arxiv_abs_html(payload, arxiv_id)
+        except Exception as exc:  # noqa: BLE001
+            errors.append(f"{template}: {exc}")
+    raise RuntimeError("Metadata fetch failed across all candidates:\n" + "\n".join(errors))
 
 
 def write_json(path: Path, data: dict | list) -> None:
@@ -310,6 +553,15 @@ def run_command(command: list[str], cwd: Path) -> subprocess.CompletedProcess:
 
 def now_shanghai() -> str:
     return dt.datetime.now(SHANGHAI_TZ).strftime("%Y-%m-%d %H:%M:%S")
+
+
+def survey_added_time_from_cache(cache: dict, arxiv_id: str) -> str:
+    timestamps = sorted(
+        value.get("added_time", "")
+        for value in cache.values()
+        if value.get("source_survey") == arxiv_id and value.get("added_time")
+    )
+    return timestamps[0] if timestamps else ""
 
 
 def require_filled_citations(data: dict) -> None:

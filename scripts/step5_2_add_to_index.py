@@ -1,7 +1,14 @@
 from pathlib import Path
 import time
 
-from common import build_arg_parser, normalize_arxiv_id, now_shanghai, print_banner, read_json
+from common import (
+    build_arg_parser,
+    normalize_arxiv_id,
+    now_shanghai,
+    print_banner,
+    read_json,
+    survey_added_time_from_cache,
+)
 
 
 HEADER = "| 入库时间 | arXiv ID | 论文简称 | 标题 | 路径 |"
@@ -21,12 +28,18 @@ def main() -> int:
     vault_root = survey_dir.parent.parent
     metadata = read_json(survey_dir / "metadata.json", {})
     index_path = vault_root / "paper_database" / "Introduction" / "INDEX.md"
+    cache_path = vault_root / "paper_database" / "Introduction" / "cite_short_cache.json"
     index_path.parent.mkdir(parents=True, exist_ok=True)
     overlay_pdf = survey_dir / f"{arxiv_id}_overlay.pdf"
     if not overlay_pdf.exists():
         raise RuntimeError(f"Overlay PDF not found: {overlay_pdf}. Complete Step 4 first.")
 
-    row = f"| {now_shanghai().split()[0]} | {arxiv_id} | {args.cite_short} | {metadata.get('title', '')} | {survey_dir.relative_to(vault_root).as_posix()} |"
+    cache = read_json(cache_path, {})
+    index_time = survey_added_time_from_cache(cache, arxiv_id) or now_shanghai()
+    row = (
+        f"| {index_time} | {arxiv_id} | {args.cite_short} | "
+        f"{metadata.get('title', '')} | {survey_dir.relative_to(vault_root).as_posix()} |"
+    )
     if index_path.exists():
         lines = [line.rstrip("\n") for line in index_path.read_text(encoding="utf-8").splitlines() if line.strip()]
         body = [line for line in lines if line not in {HEADER, SEPARATOR} and f"| {arxiv_id} |" not in line]

@@ -136,12 +136,12 @@
     "ref_id_type": "arxiv"
   },
   "2401.09985": {
-    "bib_title": "WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens",
+    "ref_id_type": "arxiv",
+    "bib_title": "Worlddreamer: Towards general world models for video generation via predicting masked tokens",
     "cite_short": "WorldDreamer",
-    "added_time": "2026-04-29 17:03:42",
+    "added_time": "2026-04-29 18:27:52",
     "added_by_human": false,
-    "source_survey": "2405.03520",
-    "ref_id_type": "arxiv"
+    "source_survey": "2603.28489"
   },
   "2402.15391": {
     "bib_title": "Genie: Generative Interactive Environments",
@@ -360,12 +360,12 @@
     "ref_id_type": "title"
   },
   "title:1669a8f51724": {
+    "ref_id_type": "title",
     "bib_title": "Exploring the limits of transfer learning with a unified text-to-text transformer",
     "cite_short": "T5",
-    "added_time": "2026-04-29 17:03:42",
+    "added_time": "2026-04-29 18:27:52",
     "added_by_human": false,
-    "source_survey": "2405.03520",
-    "ref_id_type": "title"
+    "source_survey": "2603.28489"
   },
   "title:170464e3e3d9": {
     "bib_title": "Pre-training Contextualized World Models with In-the-wild Videos for Reinforcement Learning",
@@ -376,12 +376,12 @@
     "ref_id_type": "title"
   },
   "title:17446db9b082": {
-    "bib_title": "Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving",
+    "ref_id_type": "title",
+    "bib_title": "Driving into the future: Multiview visual forecasting and planning with world model for autonomous driving",
     "cite_short": "DriveWM",
-    "added_time": "2026-04-29 17:03:42",
+    "added_time": "2026-04-29 18:27:52",
     "added_by_human": false,
-    "source_survey": "2405.03520",
-    "ref_id_type": "title"
+    "source_survey": "2603.28489"
   },
   "title:17d0d57d60c5": {
     "bib_title": "Storygan: A sequential conditional gan for story visualization",
@@ -456,12 +456,12 @@
     "ref_id_type": "title"
   },
   "title:1ffc361b3760": {
+    "ref_id_type": "title",
     "bib_title": "Video diffusion models",
     "cite_short": "Video Diffusion",
-    "added_time": "2026-04-29 17:03:42",
+    "added_time": "2026-04-29 18:27:52",
     "added_by_human": false,
-    "source_survey": "2405.03520",
-    "ref_id_type": "title"
+    "source_survey": "2603.28489"
   },
   "title:2102a326ffa7": {
     "bib_title": "Learning Real-World Robot Policies by Dreaming",
@@ -624,12 +624,12 @@
     "ref_id_type": "title"
   },
   "title:31c65c5187b5": {
-    "bib_title": "WoVoGen: World volume-aware diffusion for controllable multi-camera driving scene generation",
+    "ref_id_type": "title",
+    "bib_title": "Wovogen: World volume-aware diffusion for controllable multi-camera driving scene generation",
     "cite_short": "WoVoGen",
-    "added_time": "2026-04-29 17:03:42",
+    "added_time": "2026-04-29 18:27:52",
     "added_by_human": false,
-    "source_survey": "2405.03520",
-    "ref_id_type": "title"
+    "source_survey": "2603.28489"
   },
   "title:328a838f82a5": {
     "bib_title": "Gradient-based learning applied to document recognition",
@@ -640,12 +640,12 @@
     "ref_id_type": "title"
   },
   "title:353bfa703061": {
-    "bib_title": "Vbench: Comprehensive benchmark suite for video generative models",
+    "ref_id_type": "title",
+    "bib_title": "VBench: Comprehensive Benchmark Suite for Video Generative Models",
     "cite_short": "VBench",
-    "added_time": "2026-04-29 17:03:42",
+    "added_time": "2026-04-29 18:27:52",
     "added_by_human": false,
-    "source_survey": "2405.03520",
-    "ref_id_type": "title"
+    "source_survey": "2603.28489"
   },
   "title:354ced3194ad": {
     "bib_title": "{CURL}: Contrastive Unsupervised Representations for Reinforcement Learning",
@@ -704,28 +704,28 @@
     "ref_id_type": "title"
   },
   "title:39fc8fac01b0": {
+    "ref_id_type": "title",
     "bib_title": "Learning universal policies via text-guided video generation",
     "cite_short": "Universal Policies",
-    "added_time": "2026-04-29 17:03:42",
+    "added_time": "2026-04-29 18:27:52",
     "added_by_human": false,
-    "source_survey": "2405.03520",
-    "ref_id_type": "title"
+    "source_survey": "2603.28489"
   },
   "title:3a1104dbeba6": {
+    "ref_id_type": "title",
     "bib_title": "Align your latents: High-resolution video synthesis with latent diffusion models",
     "cite_short": "VideoLDM",
-    "added_time": "2026-04-29 17:03:42",
+    "added_time": "2026-04-29 18:27:52",
     "added_by_human": false,
-    "source_survey": "2405.03520",
-    "ref_id_type": "title"
+    "source_survey": "2603.28489"
   },
   "title:3b07295bc5b3": {
+    "ref_id_type": "title",
     "bib_title": "Learning transferable visual models from natural language supervision",
     "cite_short": "CLIP",
-    "added_time": "2026-04-29 17:03:42",
+    "added_time": "2026-04-29 18:27:52",
     "added_by_human": false,
-    "source_survey": "2405.03520",
-    "ref_id_type": "title"
+    "source_survey": "2603.28489"
   },
   "title:3c028c15624f": {
     "bib_title": "Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning",
@@ -1000,12 +1000,12 @@
     "ref_id_type": "title"
   },
   "title:536101dc22db": {
-    "bib_title": "Deepcache: Accelerating diffusion models for free",
+    "ref_id_type": "title",
+    "bib_title": "DeepCache: Accelerating Diffusion Models for Free",
     "cite_short": "DeepCache",
-    "added_time": "2026-04-29 17:03:42",
+    "added_time": "2026-04-29 18:27:52",
     "added_by_human": false,
-    "source_survey": "2405.03520",
-    "ref_id_type": "title"
+    "source_survey": "2603.28489"
   },
   "title:567c513d888d": {
     "bib_title": "End-to-end object detection with transformers",
@@ -1176,12 +1176,12 @@
     "ref_id_type": "title"
   },
   "title:6d14c13f732f": {
+    "ref_id_type": "title",
     "bib_title": "Generative adversarial nets",
     "cite_short": "GAN",
-    "added_time": "2026-04-29 17:03:42",
+    "added_time": "2026-04-29 18:27:52",
     "added_by_human": false,
-    "source_survey": "2405.03520",
-    "ref_id_type": "title"
+    "source_survey": "2603.28489"
   },
   "title:6e9ca2b9f1c1": {
     "bib_title": "Uniworld: Autonomous driving pre-training via world models",
@@ -1336,12 +1336,12 @@
     "ref_id_type": "title"
   },
   "title:8499a39998b1": {
-    "bib_title": "Sdxl: Improving latent diffusion models for high-resolution image synthesis",
+    "ref_id_type": "title",
+    "bib_title": "SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis",
     "cite_short": "SDXL",
-    "added_time": "2026-04-29 17:03:42",
+    "added_time": "2026-04-29 18:27:52",
     "added_by_human": false,
-    "source_survey": "2405.03520",
-    "ref_id_type": "title"
+    "source_survey": "2603.28489"
   },
   "title:84da35c01c55": {
     "bib_title": "Uniformer: Unified transformer for efficient spatiotemporal representation learning",
@@ -1352,12 +1352,12 @@
     "ref_id_type": "title"
   },
   "title:84e6119d376f": {
+    "ref_id_type": "title",
     "bib_title": "Photorealistic text-to-image diffusion models with deep language understanding",
     "cite_short": "Imagen",
-    "added_time": "2026-04-29 17:03:42",
+    "added_time": "2026-04-29 18:27:52",
     "added_by_human": false,
-    "source_survey": "2405.03520",
-    "ref_id_type": "title"
+    "source_survey": "2603.28489"
   },
   "title:853bb915994f": {
     "bib_title": "IRC-GAN: Introspective Recurrent Convolutional GAN for Text-to-video Generation.",
@@ -1408,20 +1408,20 @@
     "ref_id_type": "title"
   },
   "title:8eab7d092ab8": {
+    "ref_id_type": "title",
     "bib_title": "Scalable diffusion models with transformers",
     "cite_short": "DiT",
-    "added_time": "2026-04-29 17:03:42",
+    "added_time": "2026-04-29 18:27:52",
     "added_by_human": false,
-    "source_survey": "2405.03520",
-    "ref_id_type": "title"
+    "source_survey": "2603.28489"
   },
   "title:8ed1763accca": {
+    "ref_id_type": "title",
     "bib_title": "Magvit: Masked generative video transformer",
     "cite_short": "MAGVIT",
-    "added_time": "2026-04-29 17:03:42",
+    "added_time": "2026-04-29 18:27:52",
     "added_by_human": false,
-    "source_survey": "2405.03520",
-    "ref_id_type": "title"
+    "source_survey": "2603.28489"
   },
   "title:8fc275542374": {
     "bib_title": "Training data-efficient image transformers \\& distillation through attention",
@@ -1456,12 +1456,12 @@
     "ref_id_type": "title"
   },
   "title:93d2b80904eb": {
-    "bib_title": "StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text",
+    "ref_id_type": "title",
+    "bib_title": "Streamingt2v: Consistent, dynamic, and extendable long video generation from text",
     "cite_short": "StreamingT2V",
-    "added_time": "2026-04-29 17:03:42",
+    "added_time": "2026-04-29 18:27:52",
     "added_by_human": false,
-    "source_survey": "2405.03520",
-    "ref_id_type": "title"
+    "source_survey": "2603.28489"
   },
   "title:941bb5281d77": {
     "bib_title": "Mage: Masked generative encoder to unify representation learning and image synthesis",
@@ -1688,12 +1688,12 @@
     "ref_id_type": "title"
   },
   "title:b646d022f2b3": {
+    "ref_id_type": "title",
     "bib_title": "Improving image generation with better captions",
     "cite_short": "Better Captions",
-    "added_time": "2026-04-29 17:03:42",
+    "added_time": "2026-04-29 18:27:52",
     "added_by_human": false,
-    "source_survey": "2405.03520",
-    "ref_id_type": "title"
+    "source_survey": "2603.28489"
   },
   "title:b738ed4b85cc": {
     "bib_title": "Dream to Control: Learning Behaviors by Latent Imagination",
@@ -1728,12 +1728,12 @@
     "ref_id_type": "title"
   },
   "title:be80e34c6725": {
+    "ref_id_type": "title",
     "bib_title": "High-resolution image synthesis with latent diffusion models",
     "cite_short": "LDM",
-    "added_time": "2026-04-29 17:03:42",
+    "added_time": "2026-04-29 18:27:52",
     "added_by_human": false,
-    "source_survey": "2405.03520",
-    "ref_id_type": "title"
+    "source_survey": "2603.28489"
   },
   "title:c00fb9380ebd": {
     "bib_title": "Masked world models for visual control",
@@ -1872,12 +1872,12 @@
     "ref_id_type": "title"
   },
   "title:d000d886bb78": {
+    "ref_id_type": "title",
     "bib_title": "Generalized Predictive Model for Autonomous Driving",
     "cite_short": "GenAD",
-    "added_time": "2026-04-29 17:03:42",
+    "added_time": "2026-04-29 18:27:52",
     "added_by_human": false,
-    "source_survey": "2405.03520",
-    "ref_id_type": "title"
+    "source_survey": "2603.28489"
   },
   "title:d0164884c36d": {
     "bib_title": "T-Stitch: Accelerating Sampling in Pre-Trained Diffusion Models with Trajectory Stitching",
@@ -2016,20 +2016,20 @@
     "ref_id_type": "title"
   },
   "title:d95d0c67138d": {
+    "ref_id_type": "title",
     "bib_title": "Denoising diffusion probabilistic models",
     "cite_short": "DDPM",
-    "added_time": "2026-04-29 17:03:42",
+    "added_time": "2026-04-29 18:27:52",
     "added_by_human": false,
-    "source_survey": "2405.03520",
-    "ref_id_type": "title"
+    "source_survey": "2603.28489"
   },
   "title:d9a60ab5e33d": {
+    "ref_id_type": "title",
     "bib_title": "U-net: Convolutional networks for biomedical image segmentation",
     "cite_short": "U-Net",
-    "added_time": "2026-04-29 17:03:42",
+    "added_time": "2026-04-29 18:27:52",
     "added_by_human": false,
-    "source_survey": "2405.03520",
-    "ref_id_type": "title"
+    "source_survey": "2603.28489"
   },
   "title:d9be4235acc5": {
     "bib_title": "SegFormer: Simple and efficient design for semantic segmentation with transformers",
@@ -2160,12 +2160,12 @@
     "ref_id_type": "title"
   },
   "title:e9c8d422f664": {
+    "ref_id_type": "title",
     "bib_title": "Consistency models",
     "cite_short": "Consistency Models",
-    "added_time": "2026-04-29 17:03:42",
+    "added_time": "2026-04-29 18:27:52",
     "added_by_human": false,
-    "source_survey": "2405.03520",
-    "ref_id_type": "title"
+    "source_survey": "2603.28489"
   },
   "title:eaef09ba5fae": {
     "bib_title": "The Malmo platform for artificial intelligence experimentation",
@@ -2328,12 +2328,12 @@
     "ref_id_type": "url"
   },
   "url:https://openai.com/research/video-generation-models-as-world-simulators": {
+    "ref_id_type": "url",
     "bib_title": "Video generation models as world simulators",
     "cite_short": "Video as Simulators",
-    "added_time": "2026-04-29 17:03:42",
+    "added_time": "2026-04-29 18:27:52",
     "added_by_human": false,
-    "source_survey": "2405.03520",
-    "ref_id_type": "url"
+    "source_survey": "2603.28489"
   },
   "url:https://research.runwayml.com/introducing-general-world-models": {
     "bib_title": "Introducing General World Models",
@@ -2342,5 +2342,2421 @@
     "added_by_human": false,
     "source_survey": "2405.03520",
     "ref_id_type": "url"
+  },
+  "url:https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_962/paper.pdf": {
+    "ref_id_type": "url",
+    "bib_title": "LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba",
+    "cite_short": "LaMamba-Diff",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:fc1f26a112d6": {
+    "ref_id_type": "title",
+    "bib_title": "TokensGen: Harnessing Condensed Tokens for Long Video Generation",
+    "cite_short": "TokensGen",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:c15bb4c25a96": {
+    "ref_id_type": "title",
+    "bib_title": "Skyreels V1: Human-Centric Video Foundation Model",
+    "cite_short": "V1",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:6d9dd6f793b7": {
+    "ref_id_type": "title",
+    "bib_title": "LinGen: Towards High-Resolution Minute-Length Text-to-Video Generation with Linear Computational Complexity",
+    "cite_short": "LinGen",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:23cfaf85bf00": {
+    "ref_id_type": "title",
+    "bib_title": "QuantCache: Adaptive Importance-Guided Quantization with Hierarchical Latent and Layer Caching for Video Generation",
+    "cite_short": "QuantCache",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2505.13211": {
+    "ref_id_type": "arxiv",
+    "bib_title": "MAGI-1: Autoregressive Video Generation at Scale",
+    "cite_short": "MAGI-1",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2511.00062": {
+    "ref_id_type": "arxiv",
+    "bib_title": "World simulation with video foundation models for physical ai",
+    "cite_short": "World simulation video",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=NadTwTODgC": {
+    "ref_id_type": "url",
+    "bib_title": "Diffusion for World Modeling: Visual Details Matter in Atari",
+    "cite_short": "Diffusion World Modeling",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:2d93860fcb83": {
+    "ref_id_type": "title",
+    "bib_title": "Flexidit: Your diffusion transformer can easily generate high-quality samples with less compute",
+    "cite_short": "Flexidit",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=4Q55RwYte9": {
+    "ref_id_type": "url",
+    "bib_title": "Real-Time Motion-Controllable Autoregressive Video Diffusion",
+    "cite_short": "Real-Time",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2502.15672": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Vavim and vavam: Autonomous driving through video generative modeling",
+    "cite_short": "Vavim and vavam",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=HprBJupvvM": {
+    "ref_id_type": "url",
+    "bib_title": "Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation",
+    "cite_short": "Gen2Act",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2311.15127": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Stable video diffusion: Scaling latent video diffusion models to large datasets",
+    "cite_short": "Stable video diffusion",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:1701deec9e74": {
+    "ref_id_type": "title",
+    "bib_title": "Token merging for fast stable diffusion",
+    "cite_short": "Token merging fast",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=bJbSbJskOS": {
+    "ref_id_type": "url",
+    "bib_title": "Genie: Generative Interactive Environments",
+    "cite_short": "Genie",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:2432abff69c6": {
+    "ref_id_type": "title",
+    "bib_title": "Ditctrl: Exploring attention control in multi-modal diffusion transformer for tuning-free multi-prompt longer video generation",
+    "cite_short": "Ditctrl",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=y6XJZlEC2x": {
+    "ref_id_type": "url",
+    "bib_title": "Mixture of Contexts for Long Video Generation",
+    "cite_short": "Mixture Contexts Long",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2509.23951": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Hunyuanimage 3.0 technical report",
+    "cite_short": "Hunyuanimage 3 0",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=8VG8tpPZhe": {
+    "ref_id_type": "url",
+    "bib_title": "GameGen-X: Interactive Open-world Game Video Generation",
+    "cite_short": "GameGen-X",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2410.06158": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Gr-2: A generative video-language-action model with web-scale knowledge for robot manipulation",
+    "cite_short": "Gr-2",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=yDo1ynArjj": {
+    "ref_id_type": "url",
+    "bib_title": "Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion",
+    "cite_short": "Diffusion Forcing",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2406.16260": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Video-infinity: Distributed long video generation",
+    "cite_short": "Video-infinity",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:577ce6427f5f": {
+    "ref_id_type": "title",
+    "bib_title": "Collaborative decoding makes visual auto-regressive modeling efficient",
+    "cite_short": "Collaborative decoding",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2509.25182": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Dc-videogen: Efficient video generation with deep compression video autoencoder",
+    "cite_short": "Dc-videogen",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:9d0a226d4640": {
+    "ref_id_type": "title",
+    "bib_title": "Drivinggpt: Unifying driving world modeling and planning with multi-modal autoregressive transformers",
+    "cite_short": "Drivinggpt",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:874e58db2323": {
+    "ref_id_type": "title",
+    "bib_title": "Sparse-vdit: Unleashing the power of sparse attention to accelerate video diffusion transformers",
+    "cite_short": "Sparse-vdit",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=mzAchylAtf": {
+    "ref_id_type": "url",
+    "bib_title": "{SANA}-Video: Efficient Video Generation with Block Linear Diffusion Transformer",
+    "cite_short": "SANA",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2505.19151": {
+    "ref_id_type": "arxiv",
+    "bib_title": "SRDiffusion: Accelerate Video Diffusion Inference via Sketching-Rendering Cooperation",
+    "cite_short": "SRDiffusion",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=DzvPiqh23f": {
+    "ref_id_type": "url",
+    "bib_title": "Self-Forcing++: Towards Minute-Scale High-Quality Video Generation",
+    "cite_short": "Self-Forcing++",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2509.13789": {
+    "ref_id_type": "arxiv",
+    "bib_title": "BWCache: Accelerating Video Diffusion Transformers through Block-Wise Caching",
+    "cite_short": "BWCache",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2601.16914": {
+    "ref_id_type": "arxiv",
+    "bib_title": "LoL: Longer than Longer, Scaling Video Generation to Hour",
+    "cite_short": "LoL",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:1d27d7723ab0": {
+    "ref_id_type": "title",
+    "bib_title": "One-minute video generation with test-time training",
+    "cite_short": "One-minute video",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=ztn8FCR1td": {
+    "ref_id_type": "url",
+    "bib_title": "Transformers are {SSM}s: Generalized Models and Efficient Algorithms Through Structured State Space Duality",
+    "cite_short": "SSM",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://deepmind.google/models/genie/": {
+    "ref_id_type": "url",
+    "bib_title": "Genie 3",
+    "cite_short": "Genie 3",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2601.15282": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Rethinking Video Generation Model for the Embodied World",
+    "cite_short": "Rethinking Video",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2509.09595": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Kling-Avatar: Grounding Multimodal Instructions for Cascaded Long-Duration Avatar Animation Synthesis",
+    "cite_short": "Kling-Avatar",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:ef918724e6bb": {
+    "ref_id_type": "title",
+    "bib_title": "PatchVSR: Breaking Video Diffusion Resolution Limits with Patch-wise Video Super-Resolution",
+    "cite_short": "PatchVSR",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:bd52e7a36f27": {
+    "ref_id_type": "title",
+    "bib_title": "Minute-Long Videos with Dual Parallelisms",
+    "cite_short": "Minute-Long Videos Dual",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2509.16518": {
+    "ref_id_type": "arxiv",
+    "bib_title": "FG-Attn: Leveraging Fine-Grained Sparsity In Diffusion Transformers",
+    "cite_short": "FG",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:2d18cca74551": {
+    "ref_id_type": "title",
+    "bib_title": "Video prediction models as rewards for reinforcement learning",
+    "cite_short": "Video prediction models",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:a38ef1289021": {
+    "ref_id_type": "title",
+    "bib_title": "Taming transformers for high-resolution image synthesis",
+    "cite_short": "VQGAN",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:c54726f724a4": {
+    "ref_id_type": "title",
+    "bib_title": "Scaling rectified flow transformers for high-resolution image synthesis",
+    "cite_short": "RFT",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=5xwyxupsLL": {
+    "ref_id_type": "url",
+    "bib_title": "PipeFusion: Patch-level Pipeline Parallelism for Diffusion Transformers Inference",
+    "cite_short": "PipeFusion",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2405.11794": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Vivid: Video virtual try-on using diffusion models",
+    "cite_short": "Vivid",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2411.01738": {
+    "ref_id_type": "arxiv",
+    "bib_title": "xDiT: an Inference Engine for Diffusion Transformers (DiTs) with Massive Parallelism",
+    "cite_short": "DiTs",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:a7ab2671b4f8": {
+    "ref_id_type": "title",
+    "bib_title": "Tinyfusion: Diffusion transformers learned shallow",
+    "cite_short": "Tinyfusion",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:7b564e18290d": {
+    "ref_id_type": "title",
+    "bib_title": "FastVideo",
+    "cite_short": "FastVideo",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2507.12898": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Vidar: Embodied video diffusion model for generalist manipulation",
+    "cite_short": "Vidar",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2603.06331": {
+    "ref_id_type": "arxiv",
+    "bib_title": "WorldCache: Accelerating World Models for Free via Heterogeneous Token Caching",
+    "cite_short": "WorldCache",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=OlzB6LnXcS": {
+    "ref_id_type": "url",
+    "bib_title": "One Step Diffusion via Shortcut Models",
+    "cite_short": "One Step Diffusion",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2509.01624": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Q-Sched: Pushing the Boundaries of Few-Step Diffusion Models with Quantization-Aware Scheduling",
+    "cite_short": "Q-Sched",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=OeDwYtp8n1": {
+    "ref_id_type": "url",
+    "bib_title": "Learning Video Generation for Robotic Manipulation with Collaborative Trajectory Control",
+    "cite_short": "Learning Video",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=YbtH1aoE1V": {
+    "ref_id_type": "url",
+    "bib_title": "Ca2-{VDM}: Efficient Autoregressive Video Diffusion Model with Causal Generation and Cache Sharing",
+    "cite_short": "VDM",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:ba9240ad3013": {
+    "ref_id_type": "title",
+    "bib_title": "Vista: A generalizable driving world model with high fidelity and versatile controllability",
+    "cite_short": "Vista",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:15b47ff720de": {
+    "ref_id_type": "title",
+    "bib_title": "MagicDrive-V2: High-resolution long video generation for autonomous driving with adaptive control",
+    "cite_short": "V2",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2506.09113": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Seedance 1.0: Exploring the Boundaries of Video Generation Models",
+    "cite_short": "Seedance 1.0",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2602.06949": {
+    "ref_id_type": "arxiv",
+    "bib_title": "DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos",
+    "cite_short": "DreamDojo",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:8de59d1ba6d8": {
+    "ref_id_type": "title",
+    "bib_title": "Long video generation with time-agnostic vqgan and time-sensitive transformer",
+    "cite_short": "Long video generation",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=fHLtSxDFKC": {
+    "ref_id_type": "url",
+    "bib_title": "Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation",
+    "cite_short": "Genie Envisioner",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2305.18247": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Talecrafter: Interactive story visualization with multiple characters",
+    "cite_short": "Talecrafter",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=tEYskw1VY2": {
+    "ref_id_type": "url",
+    "bib_title": "Mamba: Linear-Time Sequence Modeling with Selective State Spaces",
+    "cite_short": "Mamba",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=O9J20MsmRl": {
+    "ref_id_type": "url",
+    "bib_title": "{BLADE}: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation",
+    "cite_short": "BLADE",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=Fx2SbBgcte": {
+    "ref_id_type": "url",
+    "bib_title": "AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning",
+    "cite_short": "AnimateDiff",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2412.01522": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Infinitydrive: Breaking time limits in driving world models",
+    "cite_short": "Infinitydrive",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2412.13479": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Real-time One-Step Diffusion-based Expressive Portrait Videos Generation",
+    "cite_short": "Real-time One-Step",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:d1719c1ec264": {
+    "ref_id_type": "title",
+    "bib_title": "ARIG: Autoregressive Interactive Head Generation for Real-time Conversations",
+    "cite_short": "ARIG",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=748bHL2BAv": {
+    "ref_id_type": "url",
+    "bib_title": "Ctrl-World: A Controllable Generative World Model for Robot Manipulation",
+    "cite_short": "Ctrl-World",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2504.08388": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Mineworld: a real-time and open-source interactive world model on minecraft",
+    "cite_short": "Mineworld",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:e475b59332ce": {
+    "ref_id_type": "title",
+    "bib_title": "Leveraging Verifier-Based Reinforcement Learning in Image Editing",
+    "cite_short": "Leveraging",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "1803.10122": {
+    "ref_id_type": "arxiv",
+    "bib_title": "World models",
+    "cite_short": "World models",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://findlamp.github.io/dreamer-mc.github.io/": {
+    "ref_id_type": "url",
+    "bib_title": "Dreamer-MC: A Real-Time Autoregressive World Model for Infinite Video Generation",
+    "cite_short": "MC",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2509.24527": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Training Agents Inside of Scalable World Models",
+    "cite_short": "Training Agents Inside",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2307.06940": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Animate-a-story: Storytelling with retrieval-augmented video generation",
+    "cite_short": "Animate-a-story",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2509.25180": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Dc-gen: Post-training diffusion acceleration with deeply compressed latent space",
+    "cite_short": "Dc-gen",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2508.13009": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Matrix-game 2.0: An open-source real-time and streaming interactive world model",
+    "cite_short": "Matrix-game 2.0",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2207.12598": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Classifier-free diffusion guidance",
+    "cite_short": "Classifier-free",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2210.02303": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Imagen video: High definition video generation with diffusion models",
+    "cite_short": "Imagen video",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=rB6TpjAuSRy": {
+    "ref_id_type": "url",
+    "bib_title": "CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers",
+    "cite_short": "CogVideo",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2309.17080": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Gaia-1: A generative world model for autonomous driving",
+    "cite_short": "Gaia-1",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:98d9ef8eb0df": {
+    "ref_id_type": "title",
+    "bib_title": "UltraGen: High-Resolution Video Generation with Hierarchical Attention",
+    "cite_short": "UltraGen",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=c0dhw1du33": {
+    "ref_id_type": "url",
+    "bib_title": "Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations",
+    "cite_short": "Video Prediction Policy",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:accc069f18d2": {
+    "ref_id_type": "title",
+    "bib_title": "Diffusion reward: Learning rewards via conditional video diffusion",
+    "cite_short": "Diffusion reward",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=igtjRQfght": {
+    "ref_id_type": "url",
+    "bib_title": "EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation",
+    "cite_short": "EnerVerse",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2510.08318": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Linvideo: A post-training framework towards o (n) attention in efficient video generation",
+    "cite_short": "Linvideo",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2512.04677": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Live avatar: Streaming real-time audio-driven avatar generation with infinite length",
+    "cite_short": "Live avatar",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2510.03198": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Memory forcing: Spatio-temporal memory for consistent scene generation on minecraft",
+    "cite_short": "Memory forcing",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=mSiN7i0BYH": {
+    "ref_id_type": "url",
+    "bib_title": "Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion",
+    "cite_short": "Self Forcing",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:e3fdece9d95e": {
+    "ref_id_type": "title",
+    "bib_title": "Voyager: Long-range and world-consistent video diffusion for explorable 3d scene generation",
+    "cite_short": "Voyager",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2601.04090": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Gen3R: 3D Scene Generation Meets Feed-Forward Reconstruction",
+    "cite_short": "Gen3R",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=XJXZXuTj11": {
+    "ref_id_type": "url",
+    "bib_title": "{QVG}en: Pushing the Limit of Quantized Video Generative Models",
+    "cite_short": "QVG",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:c26f7a0c3971": {
+    "ref_id_type": "title",
+    "bib_title": "HY-World 1.5: A Systematic Framework for Interactive World Modeling with Real-Time Latency and Geometric Consistency",
+    "cite_short": "HY",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:8e642f6f5749": {
+    "ref_id_type": "title",
+    "bib_title": "System optimizations for enabling training of extreme long sequence transformer models",
+    "cite_short": "System optimizations",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=3CnxNqmklv": {
+    "ref_id_type": "url",
+    "bib_title": "DreamGen: Unlocking Generalization in Robot Learning through Video World Models",
+    "cite_short": "DreamGen",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2512.14699": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Memflow: Flowing adaptive memory for consistent and efficient long video narratives",
+    "cite_short": "Memflow",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2311.13549": {
+    "ref_id_type": "arxiv",
+    "bib_title": "ADriver-I: A General World Model for Autonomous Driving",
+    "cite_short": "ADriver-I",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2505.09723": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Enerverse-ac: Envisioning embodied environments with action condition",
+    "cite_short": "Enerverse-ac",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2507.12952": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Lovic: Efficient long video generation with context compression",
+    "cite_short": "Lovic",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=66NzcRQuOq": {
+    "ref_id_type": "url",
+    "bib_title": "Pyramidal Flow Matching for Efficient Video Generative Modeling",
+    "cite_short": "Pyramidal Flow Matching",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:9fb358d96479": {
+    "ref_id_type": "title",
+    "bib_title": "Video pixel networks",
+    "cite_short": "Video pixel networks",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:117e8d8585d8": {
+    "ref_id_type": "title",
+    "bib_title": "World and human action models towards gameplay ideation",
+    "cite_short": "World human action",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:b5a611e1d02c": {
+    "ref_id_type": "title",
+    "bib_title": "Elucidating the design space of diffusion-based generative models",
+    "cite_short": "Elucidating design space",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:2dc94b4ebc20": {
+    "ref_id_type": "title",
+    "bib_title": "Fifo-diffusion: Generating infinite videos from text without training",
+    "cite_short": "Fifo-diffusion",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2502.04363": {
+    "ref_id_type": "arxiv",
+    "bib_title": "On-device Sora: Enabling Training-Free Diffusion-based Text-to-Video Generation for Mobile Devices",
+    "cite_short": "On-device Sora",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2509.26436": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Post-Training Quantization via Residual Truncation and Zero Suppression for Diffusion Models",
+    "cite_short": "Post-Training",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=wPEIStHxYH": {
+    "ref_id_type": "url",
+    "bib_title": "Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning",
+    "cite_short": "Cosmos Policy",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=LRkJwPIDuE": {
+    "ref_id_type": "url",
+    "bib_title": "VideoPoet: A Large Language Model for Zero-Shot Video Generation",
+    "cite_short": "VideoPoet",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2412.03603": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Hunyuanvideo: A systematic framework for large video generative models",
+    "cite_short": "Hunyuanvideo",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://github.com/krea-ai/realtime-video": {
+    "ref_id_type": "url",
+    "bib_title": "Krea Realtime 14B: Real-time Video Generation",
+    "cite_short": "Krea Realtime 14B",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:02711f56af8a": {
+    "ref_id_type": "title",
+    "bib_title": "A path towards autonomous machine intelligence version 0.9. 2, 2022-06-27",
+    "cite_short": "path autonomous machine",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2405.20334": {
+    "ref_id_type": "arxiv",
+    "bib_title": "VividDream: Generating 3D Scene with Ambient Dynamics",
+    "cite_short": "VividDream",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2509.09547": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Improving Video Diffusion Transformer Training by Multi-Feature Fusion and Alignment from Self-Supervised Vision Encoders",
+    "cite_short": "Improving Video",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:56512dbac256": {
+    "ref_id_type": "title",
+    "bib_title": "DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models",
+    "cite_short": "DistriFusion",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2405.08748": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Hunyuan-dit: A powerful multi-resolution diffusion transformer with fine-grained chinese understanding",
+    "cite_short": "Hunyuan-dit",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=53daI9kbvf": {
+    "ref_id_type": "url",
+    "bib_title": "T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback",
+    "cite_short": "T2V",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:21f84496ef9c": {
+    "ref_id_type": "title",
+    "bib_title": "Vidtome: Video token merging for zero-shot video editing",
+    "cite_short": "Vidtome",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2508.12969": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Compact attention: Exploiting structured spatio-temporal sparsity for fast video generation",
+    "cite_short": "Compact attention",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:76fba63aaddc": {
+    "ref_id_type": "title",
+    "bib_title": "Ditto: Motion-space diffusion for controllable realtime talking head synthesis",
+    "cite_short": "Ditto",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=3AnRMvlVDw": {
+    "ref_id_type": "url",
+    "bib_title": "{DVD}-Quant: Data-free Video Diffusion Transformers Quantization",
+    "cite_short": "DVD",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2506.17201": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Hunyuan-GameCraft: High-dynamic Interactive Game Video Generation with Hybrid History Condition",
+    "cite_short": "Hunyuan-GameCraft",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2509.21027": {
+    "ref_id_type": "arxiv",
+    "bib_title": "KeyWorld: Key Frame Reasoning Enables Effective and Efficient World Models",
+    "cite_short": "KeyWorld",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2510.18313": {
+    "ref_id_type": "arxiv",
+    "bib_title": "OmniNWM: Omniscient Driving Navigation World Models",
+    "cite_short": "OmniNWM",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=hYovE4nHTt": {
+    "ref_id_type": "url",
+    "bib_title": "Radial Attention: \\${\\textbackslash}mathcal O(n {\\textbackslash}log n)\\$ Sparse Attention for Long Video Generation",
+    "cite_short": "Radial Attention",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=X96Ei9n34a": {
+    "ref_id_type": "url",
+    "bib_title": "Stable Video Infinity: Infinite-Length Video Generation with Error Recycling",
+    "cite_short": "Stable Video Infinity",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=vWR3KuiQur": {
+    "ref_id_type": "url",
+    "bib_title": "{SVDQ}uant: Absorbing Outliers by Low-Rank Component for 4-Bit Diffusion Models",
+    "cite_short": "SVDQ",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2503.00200": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Unified video action model",
+    "cite_short": "Unified video action",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:673d75c6d88e": {
+    "ref_id_type": "title",
+    "bib_title": "Uniscene: Unified occupancy-centric driving scene generation",
+    "cite_short": "Uniscene",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:e31a783ccca2": {
+    "ref_id_type": "title",
+    "bib_title": "VMem: Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory",
+    "cite_short": "VMem",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2505.19017": {
+    "ref_id_type": "arxiv",
+    "bib_title": "WorldEval: World Model as Real-World Robot Policies Evaluator",
+    "cite_short": "WorldEval",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2602.07775": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Rolling Sink: Bridging Limited-Horizon Training and Open-Ended Testing in Autoregressive Video Diffusion",
+    "cite_short": "Rolling Sink",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=InT87E5sr4": {
+    "ref_id_type": "url",
+    "bib_title": "Dreamitate: Real-World Visuomotor Policy Learning via Video Generation",
+    "cite_short": "Dreamitate",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2602.01814": {
+    "ref_id_type": "arxiv",
+    "bib_title": "GPD: Guided Progressive Distillation for Fast and High-Quality Video Generation",
+    "cite_short": "GPD",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=lF6SHARvmG": {
+    "ref_id_type": "url",
+    "bib_title": "Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation",
+    "cite_short": "Autoregressive",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=AAgzsnhc28": {
+    "ref_id_type": "url",
+    "bib_title": "Diffusion Adversarial Post-Training for One-Step Video Generation",
+    "cite_short": "Diffusion Adversarial",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2601.21998": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Causal World Modeling for Robot Control",
+    "cite_short": "Causal World Modeling",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=PqvMRDCJT9t": {
+    "ref_id_type": "url",
+    "bib_title": "Flow Matching for Generative Modeling",
+    "cite_short": "Flow Matching Generative",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=XVjTT1nw5z": {
+    "ref_id_type": "url",
+    "bib_title": "Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow",
+    "cite_short": "Flow Straight and Fast",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=WsRHpHH4s0": {
+    "ref_id_type": "url",
+    "bib_title": "RingAttention with Blockwise Transformers for Near-Infinite Context",
+    "cite_short": "RingAttention Blockwise",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=1k4yZbbDqX": {
+    "ref_id_type": "url",
+    "bib_title": "InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation",
+    "cite_short": "InstaFlow",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:9e17baeabc2d": {
+    "ref_id_type": "title",
+    "bib_title": "Timestep Embedding Tells: It's Time to Cache for Video Diffusion Model",
+    "cite_short": "Timestep Embedding Tells",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=xXs2GKXPnH": {
+    "ref_id_type": "url",
+    "bib_title": "Faster Diffusion Through Temporal Attention Decomposition",
+    "cite_short": "Faster Diffusion",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=HN8V0flwJF": {
+    "ref_id_type": "url",
+    "bib_title": "World Model on Million-Length Video And Language With Blockwise RingAttention",
+    "cite_short": "World Model",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=e8P4Oo8S6U": {
+    "ref_id_type": "url",
+    "bib_title": "{ASTRAEA}: A Token-wise Acceleration Framework for Video Diffusion Transformers",
+    "cite_short": "ASTRAEA",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=T62TYoF8R3": {
+    "ref_id_type": "url",
+    "bib_title": "{FPSA}ttention: Training-Aware {FP}8 and Sparsity Co-Design for Fast Video Diffusion",
+    "cite_short": "FPSA",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:dedc78aa037e": {
+    "ref_id_type": "title",
+    "bib_title": "Free4D: Tuning-free 4D Scene Generation with Spatial-Temporal Consistency",
+    "cite_short": "Free4D",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2602.06508": {
+    "ref_id_type": "arxiv",
+    "bib_title": "World-VLA-Loop: Closed-Loop Learning of Video World Model and VLA Policy",
+    "cite_short": "VLA",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=Un0rgm9f04": {
+    "ref_id_type": "url",
+    "bib_title": "{VDT}: General-purpose Video Diffusion Transformers via Mask Modeling",
+    "cite_short": "VDT",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:02df6ce62393": {
+    "ref_id_type": "title",
+    "bib_title": "Input-Aware Sparse Attention for Real-Time Co-Speech Video Generation",
+    "cite_short": "Input-Aware Sparse",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=RlqYCpTu1P": {
+    "ref_id_type": "url",
+    "bib_title": "Mo{BA}: Mixture of Block Attention for Long-Context {LLM}s",
+    "cite_short": "BA",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2512.04678": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Reward forcing: Efficient streaming video generation with rewarded distribution matching distillation",
+    "cite_short": "Reward forcing",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2310.04378": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Latent consistency models: Synthesizing high-resolution images with few-step inference",
+    "cite_short": "Latent consistency",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2410.19355": {
+    "ref_id_type": "arxiv",
+    "bib_title": "FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality",
+    "cite_short": "FasterCache",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:8902f4bf619e": {
+    "ref_id_type": "title",
+    "bib_title": "Learning-to-cache: Accelerating diffusion transformer via layer caching",
+    "cite_short": "Learning-to-cache",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=ntGPYNUF3t": {
+    "ref_id_type": "url",
+    "bib_title": "Latte: Latent Diffusion Transformer for Video Generation",
+    "cite_short": "Latte",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2603.19312": {
+    "ref_id_type": "arxiv",
+    "bib_title": "LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels",
+    "cite_short": "LeWorldModel",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2512.22096": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Yume-1.5: A Text-Controlled Interactive World Generation Model",
+    "cite_short": "Yume-1.5",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2512.05094": {
+    "ref_id_type": "arxiv",
+    "bib_title": "From Generated Human Videos to Physically Plausible Robot Trajectories",
+    "cite_short": "Generated Human Videos",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2512.02473": {
+    "ref_id_type": "arxiv",
+    "bib_title": "WorldPack: Compressed Memory Improves Spatial Consistency in Video World Modeling",
+    "cite_short": "WorldPack",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2507.00990": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations",
+    "cite_short": "Robotic Manipulation by",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=wHBfxhZu1u": {
+    "ref_id_type": "url",
+    "bib_title": "Ya{RN}: Efficient Context Window Extension of Large Language Models",
+    "cite_short": "RN",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://pixverse.ai/en/blog/pixverse-r1-next-generation-real-time-world-model": {
+    "ref_id_type": "url",
+    "bib_title": "PixVerse-R1: Next-Generation Real-Time World Model",
+    "cite_short": "R1",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=ijoqFqSC7p": {
+    "ref_id_type": "url",
+    "bib_title": "FreeNoise: Tuning-Free Longer Video Diffusion via Noise Rescheduling",
+    "cite_short": "FreeNoise",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2503.09871": {
+    "ref_id_type": "arxiv",
+    "bib_title": "LuciBot: Automated Robot Policy Learning from Generated Videos",
+    "cite_short": "LuciBot",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2601.09452": {
+    "ref_id_type": "arxiv",
+    "bib_title": "MAD: Motion Appearance Decoupling for efficient Driving World Models",
+    "cite_short": "MAD",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:c852866e8869": {
+    "ref_id_type": "title",
+    "bib_title": "Zero-shot text-to-image generation",
+    "cite_short": "Zero-shot text-to-image",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2204.06125": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Hierarchical text-conditional image generation with clip latents",
+    "cite_short": "Hierarchical",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=Eg3KqoI9tS": {
+    "ref_id_type": "url",
+    "bib_title": "{TPD}iff: Temporal Pyramid Video Diffusion Model",
+    "cite_short": "TPD",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2506.09042": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models",
+    "cite_short": "Cosmos-Drive-Dreams",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2601.20540": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Advancing Open-source World Models",
+    "cite_short": "Advancing Open-source",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=IAyzXjbfwo": {
+    "ref_id_type": "url",
+    "bib_title": "Rolling Forcing: Autoregressive Long Video Diffusion in Real Time",
+    "cite_short": "Rolling Forcing",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2509.21498": {
+    "ref_id_type": "arxiv",
+    "bib_title": "SlimDiff: Training-Free, Activation-Guided Hands-free Slimming of Diffusion Models",
+    "cite_short": "SlimDiff",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2503.20523": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Gaia-2: A controllable multi-view generative world model for autonomous driving",
+    "cite_short": "Gaia-2",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:bd80d27ba2ff": {
+    "ref_id_type": "title",
+    "bib_title": "Temporal generative adversarial nets with singular value clipping",
+    "cite_short": "Temporal generative",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=TIdIXIpzhoI": {
+    "ref_id_type": "url",
+    "bib_title": "Progressive Distillation for Fast Sampling of Diffusion Models",
+    "cite_short": "Progressive Distillation",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "1608.01230": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Learning a driving simulator",
+    "cite_short": "Learning driving",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:0bed4e2aa7e1": {
+    "ref_id_type": "title",
+    "bib_title": "Exploration-Driven Generative Interactive Environments",
+    "cite_short": "Exploration-Driven",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2602.02454": {
+    "ref_id_type": "arxiv",
+    "bib_title": "World-Gymnast: Training Robots with Reinforcement Learning in a World Model",
+    "cite_short": "World-Gymnast",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2512.23379": {
+    "ref_id_type": "arxiv",
+    "bib_title": "SoulX-FlashTalk: Real-Time Infinite Streaming of Audio-Driven Avatars via Self-Correcting Bidirectional Distillation",
+    "cite_short": "SoulX-FlashTalk",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:4736bf35d61a": {
+    "ref_id_type": "title",
+    "bib_title": "Stylegan-v: A continuous video generator with the price, image quality and perks of stylegan2",
+    "cite_short": "Stylegan-v",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=PxTIG12RRHS": {
+    "ref_id_type": "url",
+    "bib_title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+    "cite_short": "Score-Based Generative",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2508.17588": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Hero: Hierarchical extrapolation and refresh for efficient world models",
+    "cite_short": "Hero",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=zA2LbsUMDd": {
+    "ref_id_type": "url",
+    "bib_title": "Video{NSA}: Native Sparse Attention Scales Video Understanding",
+    "cite_short": "NSA",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2410.10076": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Videoagent: Self-improving video generation",
+    "cite_short": "Videoagent",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:17e3880a93ea": {
+    "ref_id_type": "title",
+    "bib_title": "Roformer: Enhanced transformer with rotary position embedding",
+    "cite_short": "Roformer",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2411.02265": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent",
+    "cite_short": "Hunyuan-Large",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=5PiZevq9fY": {
+    "ref_id_type": "url",
+    "bib_title": "AsymRnR: Video Diffusion Transformers Acceleration with Asymmetric Reduction and Restoration",
+    "cite_short": "AsymRnR",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=wXfuOj9C7L": {
+    "ref_id_type": "url",
+    "bib_title": "Learning to (Learn at Test Time): {RNN}s with Expressive Hidden States",
+    "cite_short": "RNN",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2512.22065": {
+    "ref_id_type": "arxiv",
+    "bib_title": "StreamAvatar: Streaming Diffusion Models for Real-Time Interactive Human Avatars",
+    "cite_short": "StreamAvatar",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:5399208c7460": {
+    "ref_id_type": "title",
+    "bib_title": "Unicp: A unified caching and pruning framework for efficient video generation",
+    "cite_short": "Unicp",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=gY9yOGYB48": {
+    "ref_id_type": "url",
+    "bib_title": "{VORTA}: Efficient Video Diffusion via Routing Sparse Attention",
+    "cite_short": "VORTA",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2512.14614": {
+    "ref_id_type": "arxiv",
+    "bib_title": "WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling",
+    "cite_short": "WorldPlay",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2511.23429": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Hunyuan-GameCraft-2: Instruction-following Interactive Game World Model",
+    "cite_short": "Hunyuan-GameCraft-2",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2511.19861": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Gigaworld-0: World models as data engine to empower embodied ai",
+    "cite_short": "Gigaworld-0",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:53c3e1e9bd6d": {
+    "ref_id_type": "title",
+    "bib_title": "Emo: Emote portrait alive generating expressive portrait videos with audio2video diffusion model under weak conditions",
+    "cite_short": "Emo",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2511.11520": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Scalable policy evaluation with video world models",
+    "cite_short": "Scalable policy",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=Gq4Gay8rDB": {
+    "ref_id_type": "url",
+    "bib_title": "PlayerOne: Egocentric World Simulator",
+    "cite_short": "PlayerOne",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:1ed9ef90bb7c": {
+    "ref_id_type": "title",
+    "bib_title": "Mocogan: Decomposing motion and content for video generation",
+    "cite_short": "Mocogan",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=UPHlqbZFZB": {
+    "ref_id_type": "url",
+    "bib_title": "Human2robot: Learning robot actions from paired human-robot videos",
+    "cite_short": "Human2robot",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2503.20314": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Wan: Open and advanced large-scale video generative models",
+    "cite_short": "Wan",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:479af0ad925a": {
+    "ref_id_type": "title",
+    "bib_title": "Animatelcm: Computation-efficient personalized style video generation without personalized video data",
+    "cite_short": "Animatelcm",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:dc67982174a5": {
+    "ref_id_type": "title",
+    "bib_title": "Drivedreamer: Towards real-world-drive world models for autonomous driving",
+    "cite_short": "Drivedreamer",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2410.02757": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Loong: Generating minute-level long videos with autoregressive language models",
+    "cite_short": "Loong",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2312.09109": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Videolcm: Video latent consistency model",
+    "cite_short": "Videolcm",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2510.15264": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Drivegen3d: Boosting feed-forward driving scene generation with efficient video diffusion",
+    "cite_short": "Drivegen3d",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2510.01183": {
+    "ref_id_type": "arxiv",
+    "bib_title": "EvoWorld: Evolving Panoramic World Generation with Explicit 3D Memory",
+    "cite_short": "EvoWorld",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2503.15875": {
+    "ref_id_type": "arxiv",
+    "bib_title": "MiLA: Multi-view Intensive-fidelity Long-term Video Generation World Model for Autonomous Driving",
+    "cite_short": "MiLA",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:8ab7aec12fe3": {
+    "ref_id_type": "title",
+    "bib_title": "STAGE: A stream-centric generative world model for long-horizon driving-scene simulation",
+    "cite_short": "STAGE",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2601.10103": {
+    "ref_id_type": "arxiv",
+    "bib_title": "FlowAct-R1: Towards Interactive Humanoid Video Generation",
+    "cite_short": "R1",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2603.00976": {
+    "ref_id_type": "arxiv",
+    "bib_title": "PreciseCache: Precise Feature Caching for Efficient and High-fidelity Video Generation",
+    "cite_short": "PreciseCache",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://wayve.ai/thinking/gaia-3/": {
+    "ref_id_type": "url",
+    "bib_title": "GAIA-3: Scaling World Models to Power Safety and Evaluation",
+    "cite_short": "GAIA-3",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:0a77b066a6ac": {
+    "ref_id_type": "title",
+    "bib_title": "Art-v: Auto-regressive text-to-video generation with diffusion models",
+    "cite_short": "Art-v",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://www.worldlabs.ai/blog/marble-world-model": {
+    "ref_id_type": "url",
+    "bib_title": "Marble: A Multimodal World Model",
+    "cite_short": "Marble",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=NxoFmGgWC9": {
+    "ref_id_type": "url",
+    "bib_title": "Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation",
+    "cite_short": "Unleashing Large-Scale",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:1e99060ac955": {
+    "ref_id_type": "title",
+    "bib_title": "CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models",
+    "cite_short": "CAT4D",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=4TENzBftZR": {
+    "ref_id_type": "url",
+    "bib_title": "iVideo{GPT}: Interactive Video{GPT}s are Scalable World Models",
+    "cite_short": "GPT",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=ULXYZCms41": {
+    "ref_id_type": "url",
+    "bib_title": "Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling",
+    "cite_short": "Geometry Forcing",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2511.18870": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Hunyuanvideo 1.5 technical report",
+    "cite_short": "Hunyuanvideo 1 5",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:9c7b4b2a074c": {
+    "ref_id_type": "title",
+    "bib_title": "Importance-based token merging for efficient image and video generation",
+    "cite_short": "Importance-based token",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:ad08fb6aaaec": {
+    "ref_id_type": "title",
+    "bib_title": "Individual Content and Motion Dynamics Preserved Pruning for Video Diffusion Models",
+    "cite_short": "Individual Content",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:e0928dc04f96": {
+    "ref_id_type": "title",
+    "bib_title": "Snapgen-v: Generating a five-second video within five seconds on a mobile device",
+    "cite_short": "Snapgen-v",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2507.13343": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Taming Diffusion Transformer for Efficient Mobile Video Generation in Seconds",
+    "cite_short": "Taming Diffusion",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=HbTxc6U1fO": {
+    "ref_id_type": "url",
+    "bib_title": "Video World Models with Long-term Spatial Memory",
+    "cite_short": "Video World Models",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=oQaRElUdmh": {
+    "ref_id_type": "url",
+    "bib_title": "{VM}o{BA}: Mixture-of-Block Attention for Video Diffusion Models",
+    "cite_short": "VM",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=u8CA3qIS0V": {
+    "ref_id_type": "url",
+    "bib_title": "Sparse Video-Gen: Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity",
+    "cite_short": "Sparse Video-Gen",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2512.23421": {
+    "ref_id_type": "arxiv",
+    "bib_title": "DriveLaW: Unifying Planning and Video Generation in a Latent Driving World",
+    "cite_short": "DriveLaW",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2509.24948": {
+    "ref_id_type": "arxiv",
+    "bib_title": "World-env: Leveraging world model as a virtual environment for vla post-training",
+    "cite_short": "World-env",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:e6ea7e69757b": {
+    "ref_id_type": "title",
+    "bib_title": "Progressive Autoregressive Video Diffusion Models",
+    "cite_short": "Progressive",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=ZFxpclrCCf": {
+    "ref_id_type": "url",
+    "bib_title": "Glad: A Streaming Scene Generator for Autonomous Driving",
+    "cite_short": "Glad",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:6ab87a2c9976": {
+    "ref_id_type": "title",
+    "bib_title": "VILP: Imitation Learning with Latent Video Planning",
+    "cite_short": "VILP",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:6af584fb2ab4": {
+    "ref_id_type": "title",
+    "bib_title": "Mobile Video Diffusion",
+    "cite_short": "Mobile Video Diffusion",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2104.10157": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Videogpt: Video generation using vq-vae and transformers",
+    "cite_short": "Videogpt",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=sFyTZEqmUY": {
+    "ref_id_type": "url",
+    "bib_title": "Learning Interactive Real-World Simulators",
+    "cite_short": "Learning Interactive",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2412.00887": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Playable Game Generation",
+    "cite_short": "Playable Game Generation",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=LQzN6TRFg9": {
+    "ref_id_type": "url",
+    "bib_title": "CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer",
+    "cite_short": "CogVideoX",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:7b6a7a0b0197": {
+    "ref_id_type": "title",
+    "bib_title": "Drivearena: A closed-loop generative simulation platform for autonomous driving",
+    "cite_short": "Drivearena",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2508.14033": {
+    "ref_id_type": "arxiv",
+    "bib_title": "InfiniteTalk: Audio-driven Video Generation for Sparse-Frame Video Dubbing",
+    "cite_short": "InfiniteTalk",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=nCAODkpsPJ": {
+    "ref_id_type": "url",
+    "bib_title": "LongLive: Real-time Interactive Long Video Generation",
+    "cite_short": "LongLive",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2508.03485": {
+    "ref_id_type": "arxiv",
+    "bib_title": "LRQ-DiT: Log-Rotation Post-Training Quantization of Diffusion Transformers for Image and Video Generation",
+    "cite_short": "LRQ",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:2d3c06f28d9c": {
+    "ref_id_type": "title",
+    "bib_title": "Roboenvision: A long-horizon video generation model for multi-task robot manipulation",
+    "cite_short": "Roboenvision",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=WPU17d1l7R": {
+    "ref_id_type": "url",
+    "bib_title": "Sparse VideoGen2: Accelerate Video Generation with Sparse Attention via Semantic-Aware Permutation",
+    "cite_short": "Sparse VideoGen2",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2508.17756": {
+    "ref_id_type": "arxiv",
+    "bib_title": "SuperGen: An Efficient Ultra-high-resolution Video Generation System with Sketching and Tiling",
+    "cite_short": "SuperGen",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2511.20649": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Infinity-RoPE: Action-Controllable Infinite Video Generation Emerges From Autoregressive Self-Rollout",
+    "cite_short": "Infinity-RoPE",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2503.05978": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Magicinfinite: Generating infinite talking videos with your words and voice",
+    "cite_short": "Magicinfinite",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:1d3a4152d4c5": {
+    "ref_id_type": "title",
+    "bib_title": "Nuwa-xl: Diffusion over diffusion for extremely long video generation",
+    "cite_short": "Nuwa-xl",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:6b82a22835d0": {
+    "ref_id_type": "title",
+    "bib_title": "Improved distribution matching distillation for fast image synthesis",
+    "cite_short": "Improved distribution",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:8046ae1c09ac": {
+    "ref_id_type": "title",
+    "bib_title": "One-step diffusion with distribution matching distillation",
+    "cite_short": "One-step diffusion",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:49827fa03ce8": {
+    "ref_id_type": "title",
+    "bib_title": "From slow bidirectional to fast autoregressive video diffusion models",
+    "cite_short": "slow bidirectional fast",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=gzqrANCF4g": {
+    "ref_id_type": "url",
+    "bib_title": "Language Model Beats Diffusion - Tokenizer is key to visual generation",
+    "cite_short": "Language Model Beats",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=SO1aRpwVLk": {
+    "ref_id_type": "url",
+    "bib_title": "4Real: Towards Photorealistic 4D Scene Generation via Video Diffusion Models",
+    "cite_short": "4Real",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:2d209a4ccb2b": {
+    "ref_id_type": "title",
+    "bib_title": "Context as memory: Scene-consistent interactive long video generation with memory retrieval",
+    "cite_short": "Context as memory",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:fa33b7177757": {
+    "ref_id_type": "title",
+    "bib_title": "GameFactory: Creating New Games with Generative Interactive Videos",
+    "cite_short": "GameFactory",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2512.04519": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Videossm: Autoregressive long video generation with hybrid state-space memory",
+    "cite_short": "Videossm",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=51HQpkQy3t": {
+    "ref_id_type": "url",
+    "bib_title": "Di{TF}astAttn: Attention Compression for Diffusion Transformer Models",
+    "cite_short": "TF",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:2107b64907a7": {
+    "ref_id_type": "title",
+    "bib_title": "Dlfr-vae: Dynamic latent frame rate vae for video generation",
+    "cite_short": "Dlfr-vae",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:d8ee6e2f06cb": {
+    "ref_id_type": "title",
+    "bib_title": "DLFR-Gen: Diffusion-based Video Generation with Dynamic Latent Frame Rate",
+    "cite_short": "DLFR",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2603.16666": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Fast-WAM: Do World Action Models Need Test-time Future Imagination?",
+    "cite_short": "WAM",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:18ef7b01ab71": {
+    "ref_id_type": "title",
+    "bib_title": "StarGen: A Spatiotemporal Autoregression Framework with Video Diffusion Model for Scalable and Controllable Scene Generation",
+    "cite_short": "StarGen",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2509.01085": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Bidirectional sparse attention for faster video diffusion training",
+    "cite_short": "Bidirectional sparse",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=RkRrPp7GKO": {
+    "ref_id_type": "url",
+    "bib_title": "H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models",
+    "cite_short": "H2O",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=ayi7qezU87": {
+    "ref_id_type": "url",
+    "bib_title": "Pyramid{KV}: Dynamic {KV} Cache Compression based on Pyramidal Information Funneling",
+    "cite_short": "KV",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:89e6c3e0248d": {
+    "ref_id_type": "title",
+    "bib_title": "Epona: Autoregressive Diffusion World Model for Autonomous Driving",
+    "cite_short": "Epona",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=U74MOXPEJd": {
+    "ref_id_type": "url",
+    "bib_title": "Fast Video Generation with Sliding Tile Attention",
+    "cite_short": "Fast Video Generation",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=J8JCF64aEn": {
+    "ref_id_type": "url",
+    "bib_title": "Frame Context Packing and Drift Prevention in Next-Frame-Prediction Video Diffusion Models",
+    "cite_short": "Frame Context Packing",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=hPWWXpCaJ7": {
+    "ref_id_type": "url",
+    "bib_title": "{GEVRM}: Goal-Expressive Video Generation Model For Robust Visual Manipulation",
+    "cite_short": "GEVRM",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2506.18701": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Matrix-Game: Interactive World Foundation Model",
+    "cite_short": "Matrix-Game",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2511.21475": {
+    "ref_id_type": "arxiv",
+    "bib_title": "MobileI2V: Fast and High-Resolution Image-to-Video on Mobile Devices",
+    "cite_short": "MobileI2V",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:143ead0895bf": {
+    "ref_id_type": "title",
+    "bib_title": "REGEN: Learning Compact Video Embedding with (Re-)Generative Decoder",
+    "cite_short": "REGEN",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=OL44KtasKc": {
+    "ref_id_type": "url",
+    "bib_title": "SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration",
+    "cite_short": "SageAttention",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=nC8XliUxeg": {
+    "ref_id_type": "url",
+    "bib_title": "SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread {INT}4 Quantization",
+    "cite_short": "INT",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2505.21136": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Sageattention2++: A more efficient implementation of sageattention2",
+    "cite_short": "Sageattention2++",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=JbJVWljk7r": {
+    "ref_id_type": "url",
+    "bib_title": "SageAttention3: Microscaling {FP}4 Attention for Inference and An Exploration of 8-Bit Training",
+    "cite_short": "FP",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=eD8IPvNoZB": {
+    "ref_id_type": "url",
+    "bib_title": "{SLA}: Beyond Sparsity in Diffusion Transformers via Fine-Tunable Sparse{\\textendash}Linear Attention",
+    "cite_short": "SLA",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=74c3Wwk8Tc": {
+    "ref_id_type": "url",
+    "bib_title": "SpargeAttention: Accurate and Training-free Sparse Attention Accelerating Any Model Inference",
+    "cite_short": "SpargeAttention",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2512.19539": {
+    "ref_id_type": "arxiv",
+    "bib_title": "StoryMem: Multi-shot Long Video Storytelling with Memory",
+    "cite_short": "StoryMem",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=Tb9qAxT3xv": {
+    "ref_id_type": "url",
+    "bib_title": "Test-Time Training Done Right",
+    "cite_short": "Test-Time Training Done",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=CdkFnJSG4G": {
+    "ref_id_type": "url",
+    "bib_title": "Training-Free Efficient Video Generation via Dynamic Token Carving",
+    "cite_short": "Training-Free Efficient",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2512.16093": {
+    "ref_id_type": "arxiv",
+    "bib_title": "TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times",
+    "cite_short": "TurboDiffusion",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2508.15761": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Waver: Wave your way to lifelike video generation",
+    "cite_short": "Waver",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2602.09883": {
+    "ref_id_type": "arxiv",
+    "bib_title": "AdaTSQ: Pushing the Pareto Frontier of Diffusion Transformers via Temporal-Sensitivity Quantization",
+    "cite_short": "AdaTSQ",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:9544974db682": {
+    "ref_id_type": "title",
+    "bib_title": "Flashvideo: Flowing fidelity to detail for efficient high-resolution video generation",
+    "cite_short": "Flashvideo",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2602.13515": {
+    "ref_id_type": "arxiv",
+    "bib_title": "SpargeAttention2: Trainable Sparse Attention via Hybrid Top-k+ Top-p Masking and Distillation Fine-Tuning",
+    "cite_short": "SpargeAttention2",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:0cd9a2a28970": {
+    "ref_id_type": "title",
+    "bib_title": "Cv-vae: A compatible video vae for latent generative video models",
+    "cite_short": "Cv-vae",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:5d5eb42f2f84": {
+    "ref_id_type": "title",
+    "bib_title": "Drivedreamer4d: World models are effective data machines for 4d driving scene representation",
+    "cite_short": "Drivedreamer4d",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=hDBrQ4DApF": {
+    "ref_id_type": "url",
+    "bib_title": "Real-Time Video Generation with Pyramid Attention Broadcast",
+    "cite_short": "Real-Time Video",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=v3B79m7t8Z": {
+    "ref_id_type": "url",
+    "bib_title": "{RIFLE}x: A Free Lunch for Length Extrapolation in Video Diffusion Transformers",
+    "cite_short": "RIFLE",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=fLLCmC53u9": {
+    "ref_id_type": "url",
+    "bib_title": "UltraViCo: Breaking Extrapolation Limits in Video Diffusion Transformers",
+    "cite_short": "UltraViCo",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=E1N1oxd63b": {
+    "ref_id_type": "url",
+    "bib_title": "ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation",
+    "cite_short": "ViDiT-Q",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2601.12719": {
+    "ref_id_type": "arxiv",
+    "bib_title": "S2DiT: Sandwich Diffusion Transformer for Mobile Streaming Video Generation",
+    "cite_short": "S2DiT",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2602.02002": {
+    "ref_id_type": "arxiv",
+    "bib_title": "UniDriveDreamer: A Single-Stage Multimodal World Model for Autonomous Driving",
+    "cite_short": "UniDriveDreamer",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=uBcHcM7Kzi": {
+    "ref_id_type": "url",
+    "bib_title": "{MEMO}: Memory-Guided Diffusion for Expressive Talking Video Generation",
+    "cite_short": "MEMO",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2412.20404": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Open-sora: Democratizing efficient video production for all",
+    "cite_short": "Open-sora",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2211.11018": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Magicvideo: Efficient video generation with latent diffusion models",
+    "cite_short": "Magicvideo",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2412.05899": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Accelerating video diffusion models via distribution matching",
+    "cite_short": "Accelerating video",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:3cbec94a68e0": {
+    "ref_id_type": "title",
+    "bib_title": "INFP: Audio-Driven Interactive Head Generation in Dyadic Conversations",
+    "cite_short": "INFP",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:e9d5f1932564": {
+    "ref_id_type": "title",
+    "bib_title": "Other vehicle trajectories are also needed: A driving world model unifies ego-other vehicle trajectories in video latent space",
+    "cite_short": "Other vehicle",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=KWeX6tYno6": {
+    "ref_id_type": "url",
+    "bib_title": "WorldSplat: Gaussian-Centric Feed-Forward 4D Scene Generation for Autonomous Driving",
+    "cite_short": "WorldSplat",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "url:https://openreview.net/forum?id=8UZpmrxoLG": {
+    "ref_id_type": "url",
+    "bib_title": "Astra: General Interactive World Model with Autoregressive Denoising",
+    "cite_short": "Astra",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2602.02214": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation",
+    "cite_short": "Causal Forcing",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:89f8433903f8": {
+    "ref_id_type": "title",
+    "bib_title": "Fast-vid2vid: Spatial-temporal compression for video-to-video synthesis",
+    "cite_short": "Fast-vid2vid",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:b608b9e86412": {
+    "ref_id_type": "title",
+    "bib_title": "Lumina-next: Making lumina-t2x stronger and faster with next-dit",
+    "cite_short": "Lumina-next",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "title:427359e496e0": {
+    "ref_id_type": "title",
+    "bib_title": "Turbo-vaed: Fast and stable transfer of video-vaes to mobile devices",
+    "cite_short": "Turbo-vaed",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2602.05449": {
+    "ref_id_type": "arxiv",
+    "bib_title": "DisCa: Accelerating Video Diffusion Transformers with Distillation-Compatible Learnable Feature Caching",
+    "cite_short": "DisCa",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
+  },
+  "2510.13084": {
+    "ref_id_type": "arxiv",
+    "bib_title": "Edit-Your-Interest: Efficient Video Editing via Feature Most-Similar Propagation",
+    "cite_short": "Edit-Your-Interest",
+    "added_time": "2026-04-29 18:27:52",
+    "added_by_human": false,
+    "source_survey": "2603.28489"
   }
 }
