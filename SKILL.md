@@ -516,3 +516,9 @@ python scripts/step5_2_add_to_index.py 2405.03520 \
 **网络代理**：
 - 在中国大陆，优先尝试本地代理（如 `HTTP_PROXY=http://127.0.0.1:7890`）。
 - 如果代理不可用，脚本应自动回退为直连或备用 URL，不要因为固定代理失效而直接中断流程。
+---
+
+## Project Memory Rule
+
+- If a real bug, root cause, stable workaround, or new process convention is confirmed during work, update `PROJECT_MEMORY.md` in the repo root in the same turn.
+- `PROJECT_MEMORY.md` should contain long-lived engineering facts only, not temporary conversational notes.
